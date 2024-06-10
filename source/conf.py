@@ -134,7 +134,7 @@ intersphinx_mapping = {
 
 
     'single-issuer-manual' : (
-            'https://transferonline-solo-docsite.readthedocs-hosted.com/projects/transferonline-single-issuer-manual/en/latest/',
+            'https://transferonline-solo-docsite.readthedocs-hosted.com/projects/transferonline-single-issuer-manual/en/stable/',
              None
     ),
 
