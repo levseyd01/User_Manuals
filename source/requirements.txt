@@ -1,0 +1,14 @@
+sphinx
+readthedocs-sphinx-search
+myst-parser
+rst2pdf
+git+https://github.com/executablebooks/sphinx-book-theme
+sphinx-tippy
+sphinx-prompt
+sphinx_book_theme
+sphinx-copybutton
+sphinx-tabs
+sphinx-prompt
+sphinx-togglebutton
+sphinx-hoverxref
+pydata-sphinx-theme

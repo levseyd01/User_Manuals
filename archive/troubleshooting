@@ -1,0 +1,1781 @@
+./build
+Running Sphinx v7.2.6
+[app] setting up extension: 'sphinx.addnodes'
+[app] adding node: (<class 'sphinx.addnodes.toctree'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.toctree'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_signature'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_signature'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_signature_line'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_signature_line'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_content'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_content'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_inline'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_inline'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_name'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_name'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_addname'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_addname'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_type'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_type'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_returns'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_returns'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_parameterlist'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_parameterlist'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_type_parameter_list'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_type_parameter_list'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_parameter'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_parameter'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_type_parameter'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_type_parameter'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_optional'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_optional'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_annotation'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_annotation'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_literal_char'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_literal_char'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_punctuation'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_punctuation'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_literal_string'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_literal_string'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_keyword'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_keyword'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_operator'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_operator'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_literal_number'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_literal_number'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_space'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_space'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_keyword_type'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_keyword_type'>, {}
+[app] adding node: (<class 'sphinx.addnodes.desc_sig_name'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.desc_sig_name'>, {}
+[app] adding node: (<class 'sphinx.addnodes.versionmodified'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.versionmodified'>, {}
+[app] adding node: (<class 'sphinx.addnodes.seealso'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.seealso'>, {}
+[app] adding node: (<class 'sphinx.addnodes.productionlist'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.productionlist'>, {}
+[app] adding node: (<class 'sphinx.addnodes.production'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.production'>, {}
+[app] adding node: (<class 'sphinx.addnodes.index'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.index'>, {}
+[app] adding node: (<class 'sphinx.addnodes.centered'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.centered'>, {}
+[app] adding node: (<class 'sphinx.addnodes.acks'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.acks'>, {}
+[app] adding node: (<class 'sphinx.addnodes.hlist'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.hlist'>, {}
+[app] adding node: (<class 'sphinx.addnodes.hlistcol'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.hlistcol'>, {}
+[app] adding node: (<class 'sphinx.addnodes.compact_paragraph'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.compact_paragraph'>, {}
+[app] adding node: (<class 'sphinx.addnodes.glossary'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.glossary'>, {}
+[app] adding node: (<class 'sphinx.addnodes.only'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.only'>, {}
+[app] adding node: (<class 'sphinx.addnodes.start_of_file'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.start_of_file'>, {}
+[app] adding node: (<class 'sphinx.addnodes.highlightlang'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.highlightlang'>, {}
+[app] adding node: (<class 'sphinx.addnodes.tabular_col_spec'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.tabular_col_spec'>, {}
+[app] adding node: (<class 'sphinx.addnodes.pending_xref'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.pending_xref'>, {}
+[app] adding node: (<class 'sphinx.addnodes.number_reference'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.number_reference'>, {}
+[app] adding node: (<class 'sphinx.addnodes.download_reference'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.download_reference'>, {}
+[app] adding node: (<class 'sphinx.addnodes.literal_emphasis'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.literal_emphasis'>, {}
+[app] adding node: (<class 'sphinx.addnodes.literal_strong'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.literal_strong'>, {}
+[app] adding node: (<class 'sphinx.addnodes.manpage'>, {})
+[app] adding translation_handlers: <class 'sphinx.addnodes.manpage'>, {}
+[app] setting up extension: 'sphinx.builders.changes'
+[app] adding builder: <class 'sphinx.builders.changes.ChangesBuilder'>
+[app] setting up extension: 'sphinx.builders.epub3'
+[app] adding builder: <class 'sphinx.builders.epub3.Epub3Builder'>
+[app] adding config value: ('epub_basename', <function setup.<locals>.<lambda> at 0x0000022098DE0E00>, False, ())
+[app] adding config value: ('epub_version', 3.0, 'epub', ())
+[app] adding config value: ('epub_theme', 'epub', 'epub', ())
+[app] adding config value: ('epub_theme_options', {}, 'epub', ())
+[app] adding config value: ('epub_title', <function setup.<locals>.<lambda> at 0x000002209901A520>, 'epub', ())
+[app] adding config value: ('epub_author', <function setup.<locals>.<lambda> at 0x000002209901A480>, 'epub', ())
+[app] adding config value: ('epub_language', <function setup.<locals>.<lambda> at 0x000002209901A660>, 'epub', ())
+[app] adding config value: ('epub_publisher', <function setup.<locals>.<lambda> at 0x000002209901A7A0>, 'epub', ())
+[app] adding config value: ('epub_copyright', <function setup.<locals>.<lambda> at 0x000002209901A8E0>, 'epub', ())
+[app] adding config value: ('epub_identifier', 'unknown', 'epub', ())
+[app] adding config value: ('epub_scheme', 'unknown', 'epub', ())
+[app] adding config value: ('epub_uid', 'unknown', 'env', ())
+[app] adding config value: ('epub_cover', (), 'env', ())
+[app] adding config value: ('epub_guide', (), 'env', ())
+[app] adding config value: ('epub_pre_files', [], 'env', ())
+[app] adding config value: ('epub_post_files', [], 'env', ())
+[app] adding config value: ('epub_css_files', <function setup.<locals>.<lambda> at 0x0000022098A2CCC0>, 'epub', ())
+[app] adding config value: ('epub_exclude_files', [], 'env', ())
+[app] adding config value: ('epub_tocdepth', 3, 'env', ())
+[app] adding config value: ('epub_tocdup', True, 'env', ())
+[app] adding config value: ('epub_tocscope', 'default', 'env', ())
+[app] adding config value: ('epub_fix_images', False, 'env', ())
+[app] adding config value: ('epub_max_image_width', 0, 'env', ())
+[app] adding config value: ('epub_show_urls', 'inline', 'epub', ())
+[app] adding config value: ('epub_use_index', <function setup.<locals>.<lambda> at 0x000002209901A700>, 'epub', ())
+[app] adding config value: ('epub_description', 'unknown', 'epub', ())
+[app] adding config value: ('epub_contributor', 'unknown', 'epub', ())
+[app] adding config value: ('epub_writing_mode', 'horizontal', 'epub', <sphinx.config.ENUM object at 0x0000022095DB1970>)
+[app] connecting event 'config-inited' (800): <function convert_epub_css_files at 0x000002209901A340> [id=0]
+[app] connecting event 'builder-inited' (500): <function validate_config_values at 0x0000022098DE0F40> [id=1]
+[app] setting up extension: 'sphinx.builders.dirhtml'
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinx.builders.html.StandaloneHTMLBuilder'>
+[app] adding config value: ('html_theme', 'alabaster', 'html', ())
+[app] adding config value: ('html_theme_path', [], 'html', ())
+[app] adding config value: ('html_theme_options', {}, 'html', ())
+[app] adding config value: ('html_title', <function setup.<locals>.<lambda> at 0x000002209901AA20>, 'html', [<class 'str'>])
+[app] adding config value: ('html_short_title', <function setup.<locals>.<lambda> at 0x000002209901AC00>, 'html', ())
+[app] adding config value: ('html_style', None, 'html', [<class 'list'>, <class 'str'>])
+[app] adding config value: ('html_logo', None, 'html', [<class 'str'>])
+[app] adding config value: ('html_favicon', None, 'html', [<class 'str'>])
+[app] adding config value: ('html_css_files', [], 'html', ())
+[app] adding config value: ('html_js_files', [], 'html', ())
+[app] adding config value: ('html_static_path', [], 'html', ())
+[app] adding config value: ('html_extra_path', [], 'html', ())
+[app] adding config value: ('html_last_updated_fmt', None, 'html', [<class 'str'>])
+[app] adding config value: ('html_sidebars', {}, 'html', ())
+[app] adding config value: ('html_additional_pages', {}, 'html', ())
+[app] adding config value: ('html_domain_indices', True, 'html', [<class 'list'>])
+[app] adding config value: ('html_permalinks', True, 'html', ())
+[app] adding config value: ('html_permalinks_icon', '¶', 'html', ())
+[app] adding config value: ('html_use_index', True, 'html', ())
+[app] adding config value: ('html_split_index', False, 'html', ())
+[app] adding config value: ('html_copy_source', True, 'html', ())
+[app] adding config value: ('html_show_sourcelink', True, 'html', ())
+[app] adding config value: ('html_sourcelink_suffix', '.txt', 'html', ())
+[app] adding config value: ('html_use_opensearch', '', 'html', ())
+[app] adding config value: ('html_file_suffix', None, 'html', [<class 'str'>])
+[app] adding config value: ('html_link_suffix', None, 'html', [<class 'str'>])
+[app] adding config value: ('html_show_copyright', True, 'html', ())
+[app] adding config value: ('html_show_search_summary', True, 'html', ())
+[app] adding config value: ('html_show_sphinx', True, 'html', ())
+[app] adding config value: ('html_context', {}, 'html', ())
+[app] adding config value: ('html_output_encoding', 'utf-8', 'html', ())
+[app] adding config value: ('html_compact_lists', True, 'html', ())
+[app] adding config value: ('html_secnumber_suffix', '. ', 'html', ())
+[app] adding config value: ('html_search_language', None, 'html', [<class 'str'>])
+[app] adding config value: ('html_search_options', {}, 'html', ())
+[app] adding config value: ('html_search_scorer', '', '', ())
+[app] adding config value: ('html_scaled_image_link', True, 'html', ())
+[app] adding config value: ('html_baseurl', '', 'html', ())
+[app] adding config value: ('html_codeblock_linenos_style', 'inline', 'html', <sphinx.config.ENUM object at 0x0000022098953FE0>)
+[app] adding config value: ('html_math_renderer', None, 'env', ())
+[app] adding config value: ('html4_writer', False, 'html', ())
+[app] adding event: 'html-collect-pages'
+[app] adding event: 'html-page-context'
+[app] connecting event 'config-inited' (800): <function convert_html_css_files at 0x0000022098FCC7C0> [id=2]
+[app] connecting event 'config-inited' (800): <function convert_html_js_files at 0x0000022099013560> [id=3]
+[app] connecting event 'config-inited' (800): <function validate_html_extra_path at 0x0000022099013740> [id=4]
+[app] connecting event 'config-inited' (800): <function validate_html_static_path at 0x00000220990137E0> [id=5]
+[app] connecting event 'config-inited' (800): <function validate_html_logo at 0x0000022099013880> [id=6]
+[app] connecting event 'config-inited' (800): <function validate_html_favicon at 0x0000022099013920> [id=7]
+[app] connecting event 'config-inited' (800): <function error_on_html_4 at 0x00000220990139C0> [id=8]
+[app] connecting event 'builder-inited' (500): <function validate_math_renderer at 0x00000220990136A0> [id=9]
+[app] connecting event 'html-page-context' (500): <function setup_resource_paths at 0x0000022099013600> [id=10]
+[app] setting up extension: 'sphinx.ext.mathjax'
+[app] adding html_math_renderer: mathjax, (<function html_visit_math at 0x0000022098FDF1A0>, None), (<function html_visit_displaymath at 0x00000220990280E0>, None)
+[app] adding config value: ('mathjax_path', 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js', 'html', ())
+[app] adding config value: ('mathjax_options', {}, 'html', ())
+[app] adding config value: ('mathjax_inline', ['\\(', '\\)'], 'html', ())
+[app] adding config value: ('mathjax_display', ['\\[', '\\]'], 'html', ())
+[app] adding config value: ('mathjax_config', None, 'html', ())
+[app] adding config value: ('mathjax2_config', <function setup.<locals>.<lambda> at 0x000002209901B100>, 'html', ())
+[app] adding config value: ('mathjax3_config', None, 'html', ())
+[app] connecting event 'html-page-context' (500): <function install_mathjax at 0x0000022099028180> [id=11]
+[app] setting up extension: 'sphinx.builders.html.transforms'
+[app] adding post transform: <class 'sphinx.builders.html.transforms.KeyboardTransform'>
+[app] adding builder: <class 'sphinx.builders.dirhtml.DirectoryHTMLBuilder'>
+[app] setting up extension: 'sphinx.builders.dummy'
+[app] adding builder: <class 'sphinx.builders.dummy.DummyBuilder'>
+[app] setting up extension: 'sphinx.builders.gettext'
+[app] adding builder: <class 'sphinx.builders.gettext.MessageCatalogBuilder'>
+[app] adding config value: ('gettext_compact', True, 'gettext', {<class 'str'>, <class 'bool'>})
+[app] adding config value: ('gettext_location', True, 'gettext', ())
+[app] adding config value: ('gettext_uuid', False, 'gettext', ())
+[app] adding config value: ('gettext_auto_build', True, 'env', ())
+[app] adding config value: ('gettext_additional_targets', [], 'env', ())
+[app] adding config value: ('gettext_last_translator', 'FULL NAME <EMAIL@ADDRESS>', 'gettext', ())
+[app] adding config value: ('gettext_language_team', 'LANGUAGE <LL@li.org>', 'gettext', ())
+[app] setting up extension: 'sphinx.builders.html'
+[app] setting up extension: 'sphinx.builders.latex'
+[app] setting up extension: 'sphinx.builders.latex.transforms'
+[app] adding transform: <class 'sphinx.builders.latex.transforms.FootnoteDocnameUpdater'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.SubstitutionDefinitionsRemover'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.BibliographyTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.CitationReferenceTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.DocumentTargetTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.IndexInSectionTitleTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.LaTeXFootnoteTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.LiteralBlockTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.MathReferenceTransform'>
+[app] adding post transform: <class 'sphinx.builders.latex.transforms.ShowUrlsTransform'>
+[app] adding builder: <class 'sphinx.builders.latex.LaTeXBuilder'>
+[app] connecting event 'config-inited' (800): <function validate_config_values at 0x0000022099029300> [id=12]
+[app] connecting event 'config-inited' (800): <function validate_latex_theme_options at 0x00000220990EEC00> [id=13]
+[app] connecting event 'builder-inited' (500): <function install_packages_for_ja at 0x00000220990EECA0> [id=14]
+[app] adding config value: ('latex_engine', <function default_latex_engine at 0x00000220990EED40>, False, <sphinx.config.ENUM object at 0x0000022099016AB0>)
+[app] adding config value: ('latex_documents', <function default_latex_documents at 0x00000220990EEF20>, False, ())
+[app] adding config value: ('latex_logo', None, False, [<class 'str'>])
+[app] adding config value: ('latex_appendices', [], False, ())
+[app] adding config value: ('latex_use_latex_multicolumn', False, False, ())
+[app] adding config value: ('latex_use_xindy', <function default_latex_use_xindy at 0x00000220990EEE80>, False, [<class 'bool'>])
+[app] adding config value: ('latex_toplevel_sectioning', None, False, <sphinx.config.ENUM object at 0x0000022099016360>)
+[app] adding config value: ('latex_domain_indices', True, False, [<class 'list'>])
+[app] adding config value: ('latex_show_urls', 'no', False, ())
+[app] adding config value: ('latex_show_pagerefs', False, False, ())
+[app] adding config value: ('latex_elements', {}, False, ())
+[app] adding config value: ('latex_additional_files', [], False, ())
+[app] adding config value: ('latex_table_style', ['booktabs', 'colorrows'], False, [<class 'list'>])
+[app] adding config value: ('latex_theme', 'manual', False, [<class 'str'>])
+[app] adding config value: ('latex_theme_options', {}, False, ())
+[app] adding config value: ('latex_theme_path', [], False, [<class 'list'>])
+[app] adding config value: ('latex_docclass', <function default_latex_docclass at 0x00000220990EEDE0>, False, ())
+[app] setting up extension: 'sphinx.builders.linkcheck'
+[app] adding builder: <class 'sphinx.builders.linkcheck.CheckExternalLinksBuilder'>
+[app] adding post transform: <class 'sphinx.builders.linkcheck.HyperlinkCollector'>
+[app] adding config value: ('linkcheck_ignore', [], False, ())
+[app] adding config value: ('linkcheck_exclude_documents', [], False, ())
+[app] adding config value: ('linkcheck_allowed_redirects', {}, False, ())
+[app] adding config value: ('linkcheck_auth', [], False, ())
+[app] adding config value: ('linkcheck_request_headers', {}, False, ())
+[app] adding config value: ('linkcheck_retries', 1, False, ())
+[app] adding config value: ('linkcheck_timeout', None, False, [<class 'int'>, <class 'float'>])
+[app] adding config value: ('linkcheck_workers', 5, False, ())
+[app] adding config value: ('linkcheck_anchors', True, False, ())
+[app] adding config value: ('linkcheck_anchors_ignore', ['^!'], False, ())
+[app] adding config value: ('linkcheck_anchors_ignore_for_url', (), False, (<class 'tuple'>, <class 'list'>))
+[app] adding config value: ('linkcheck_rate_limit_timeout', 300.0, False, ())
+[app] adding event: 'linkcheck-process-uri'
+[app] connecting event 'config-inited' (800): <function compile_linkcheck_allowed_redirects at 0x00000220993DE020> [id=15]
+[app] setting up extension: 'sphinx.builders.manpage'
+[app] adding builder: <class 'sphinx.builders.manpage.ManualPageBuilder'>
+[app] adding config value: ('man_pages', <function default_man_pages at 0x00000220993DE160>, False, ())
+[app] adding config value: ('man_show_urls', False, False, ())
+[app] adding config value: ('man_make_section_directory', False, False, ())
+[app] setting up extension: 'sphinx.builders.singlehtml'
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinx.builders.singlehtml.SingleFileHTMLBuilder'>
+[app] adding config value: ('singlehtml_sidebars', <function setup.<locals>.<lambda> at 0x00000220990EF060>, 'html', ())
+[app] setting up extension: 'sphinx.builders.texinfo'
+[app] adding builder: <class 'sphinx.builders.texinfo.TexinfoBuilder'>
+[app] adding config value: ('texinfo_documents', <function default_texinfo_documents at 0x000002209A40ED40>, False, ())
+[app] adding config value: ('texinfo_appendices', [], False, ())
+[app] adding config value: ('texinfo_elements', {}, False, ())
+[app] adding config value: ('texinfo_domain_indices', True, False, [<class 'list'>])
+[app] adding config value: ('texinfo_show_urls', 'footnote', False, ())
+[app] adding config value: ('texinfo_no_detailmenu', False, False, ())
+[app] adding config value: ('texinfo_cross_references', True, False, ())
+[app] setting up extension: 'sphinx.builders.text'
+[app] adding builder: <class 'sphinx.builders.text.TextBuilder'>
+[app] adding config value: ('text_sectionchars', '*=-~"+`', 'env', ())
+[app] adding config value: ('text_newlines', 'unix', 'env', ())
+[app] adding config value: ('text_add_secnumbers', True, 'env', ())
+[app] adding config value: ('text_secnumber_suffix', '. ', 'env', ())
+[app] setting up extension: 'sphinx.builders.xml'
+[app] adding builder: <class 'sphinx.builders.xml.XMLBuilder'>
+[app] adding builder: <class 'sphinx.builders.xml.PseudoXMLBuilder'>
+[app] adding config value: ('xml_pretty', True, 'env', ())
+[app] setting up extension: 'sphinx.config'
+[app] connecting event 'config-inited' (800): <function convert_source_suffix at 0x00000220977B85E0> [id=16]
+[app] connecting event 'config-inited' (800): <function convert_highlight_options at 0x00000220977B8680> [id=17]
+[app] connecting event 'config-inited' (800): <function init_numfig_format at 0x00000220977B8720> [id=18]
+[app] connecting event 'config-inited' (800): <function correct_copyright_year at 0x00000220977B87C0> [id=19]
+[app] connecting event 'config-inited' (800): <function check_confval_types at 0x00000220977B8900> [id=20]
+[app] connecting event 'config-inited' (800): <function check_primary_domain at 0x00000220977B89A0> [id=21]
+[app] connecting event 'env-get-outdated' (500): <function check_root_doc at 0x00000220977B8A40> [id=22]
+[app] setting up extension: 'sphinx.domains.c'
+[app] adding domain: <class 'sphinx.domains.c.CDomain'>
+[app] adding config value: ('c_id_attributes', [], 'env', ())
+[app] adding config value: ('c_paren_attributes', [], 'env', ())
+[app] adding config value: ('c_extra_keywords', ['alignas', 'alignof', 'bool', 'complex', 'imaginary', 'noreturn', 'static_assert', 'thread_local'], 'env', ())
+[app] adding config value: ('c_maximum_signature_line_length', None, 'env', {None, <class 'int'>})
+[app] adding post transform: <class 'sphinx.domains.c.AliasTransform'>
+[app] setting up extension: 'sphinx.domains.changeset'
+[app] adding domain: <class 'sphinx.domains.changeset.ChangeSetDomain'>
+[app] adding directive: ('deprecated', <class 'sphinx.domains.changeset.VersionChange'>)
+[app] adding directive: ('versionadded', <class 'sphinx.domains.changeset.VersionChange'>)
+[app] adding directive: ('versionchanged', <class 'sphinx.domains.changeset.VersionChange'>)
+[app] setting up extension: 'sphinx.domains.citation'
+[app] adding domain: <class 'sphinx.domains.citation.CitationDomain'>
+[app] adding transform: <class 'sphinx.domains.citation.CitationDefinitionTransform'>
+[app] adding transform: <class 'sphinx.domains.citation.CitationReferenceTransform'>
+[app] setting up extension: 'sphinx.domains.cpp'
+[app] adding domain: <class 'sphinx.domains.cpp.CPPDomain'>
+[app] adding config value: ('cpp_index_common_prefix', [], 'env', ())
+[app] adding config value: ('cpp_id_attributes', [], 'env', ())
+[app] adding config value: ('cpp_paren_attributes', [], 'env', ())
+[app] adding config value: ('cpp_maximum_signature_line_length', None, 'env', {None, <class 'int'>})
+[app] adding post transform: <class 'sphinx.domains.cpp.AliasTransform'>
+[app] adding config value: ('cpp_debug_lookup', False, '', ())
+[app] adding config value: ('cpp_debug_show_tree', False, '', ())
+[app] connecting event 'builder-inited' (500): <function setup.<locals>.initStuff at 0x000002209A5A04A0> [id=23]
+[app] setting up extension: 'sphinx.domains.index'
+[app] adding domain: <class 'sphinx.domains.index.IndexDomain'>
+[app] adding directive: ('index', <class 'sphinx.domains.index.IndexDirective'>)
+[app] adding role: ('index', <sphinx.domains.index.IndexRole object at 0x000002209A4A8FB0>)
+[app] setting up extension: 'sphinx.domains.javascript'
+[app] adding domain: <class 'sphinx.domains.javascript.JavaScriptDomain'>
+[app] adding config value: ('javascript_maximum_signature_line_length', None, 'env', {None, <class 'int'>})
+[app] setting up extension: 'sphinx.domains.math'
+[app] adding domain: <class 'sphinx.domains.math.MathDomain'>
+[app] adding role: ('eq', <sphinx.domains.math.MathReferenceRole object at 0x000002209A574AD0>)
+[app] setting up extension: 'sphinx.domains.python'
+[app] setting up extension: 'sphinx.directives'
+[app] adding config value: ('strip_signature_backslash', False, 'env', ())
+[app] adding event: 'object-description-transform'
+[app] adding domain: <class 'sphinx.domains.python.PythonDomain'>
+[app] adding config value: ('python_use_unqualified_type_names', False, 'env', ())
+[app] adding config value: ('python_maximum_signature_line_length', None, 'env', {None, <class 'int'>})
+[app] adding config value: ('python_display_short_literal_types', False, 'env', ())
+[app] connecting event 'object-description-transform' (500): <function filter_meta_fields at 0x000002209A5EC0E0> [id=24]
+[app] connecting event 'missing-reference' (900): <function builtin_resolver at 0x000002209A5EDD00> [id=25]
+[app] setting up extension: 'sphinx.domains.rst'
+[app] adding domain: <class 'sphinx.domains.rst.ReSTDomain'>
+[app] setting up extension: 'sphinx.domains.std'
+[app] adding domain: <class 'sphinx.domains.std.StandardDomain'>
+[app] connecting event 'warn-missing-reference' (500): <function warn_missing_reference at 0x0000022098859800> [id=26]
+[app] setting up extension: 'sphinx.directives'
+[app] setting up extension: 'sphinx.directives.code'
+[app] setting up extension: 'sphinx.directives.other'
+[app] setting up extension: 'sphinx.directives.patches'
+[app] setting up extension: 'sphinx.extension'
+[app] connecting event 'config-inited' (800): <function verify_needs_extensions at 0x0000022098874860> [id=27]
+[app] setting up extension: 'sphinx.parsers'
+[app] adding search source_parser: <class 'sphinx.parsers.RSTParser'>
+[app] setting up extension: 'sphinx.registry'
+[app] connecting event 'config-inited' (800): <function merge_source_suffix at 0x000002209877B380> [id=28]
+[app] setting up extension: 'sphinx.roles'
+[app] setting up extension: 'sphinx.transforms'
+[app] adding transform: <class 'sphinx.transforms.ApplySourceWorkaround'>
+[app] adding transform: <class 'sphinx.transforms.ExtraTranslatableNodes'>
+[app] adding transform: <class 'sphinx.transforms.DefaultSubstitutions'>
+[app] adding transform: <class 'sphinx.transforms.MoveModuleTargets'>
+[app] adding transform: <class 'sphinx.transforms.HandleCodeBlocks'>
+[app] adding transform: <class 'sphinx.transforms.SortIds'>
+[app] adding transform: <class 'sphinx.transforms.DoctestTransform'>
+[app] adding transform: <class 'sphinx.transforms.AutoNumbering'>
+[app] adding transform: <class 'sphinx.transforms.AutoIndexUpgrader'>
+[app] adding transform: <class 'sphinx.transforms.FilterSystemMessages'>
+[app] adding transform: <class 'sphinx.transforms.UnreferencedFootnotesDetector'>
+[app] adding transform: <class 'sphinx.transforms.SphinxSmartQuotes'>
+[app] adding transform: <class 'sphinx.transforms.DoctreeReadEvent'>
+[app] adding transform: <class 'sphinx.transforms.ManpageLink'>
+[app] adding transform: <class 'sphinx.transforms.GlossarySorter'>
+[app] adding transform: <class 'sphinx.transforms.ReorderConsecutiveTargetAndIndexNodes'>
+[app] setting up extension: 'sphinx.transforms.compact_bullet_list'
+[app] adding transform: <class 'sphinx.transforms.compact_bullet_list.RefOnlyBulletListTransform'>
+[app] setting up extension: 'sphinx.transforms.i18n'
+[app] adding transform: <class 'sphinx.transforms.i18n.PreserveTranslatableMessages'>
+[app] adding transform: <class 'sphinx.transforms.i18n.Locale'>
+[app] adding transform: <class 'sphinx.transforms.i18n.TranslationProgressTotaliser'>
+[app] adding transform: <class 'sphinx.transforms.i18n.AddTranslationClasses'>
+[app] adding transform: <class 'sphinx.transforms.i18n.RemoveTranslatableInline'>
+[app] setting up extension: 'sphinx.transforms.references'
+[app] adding transform: <class 'sphinx.transforms.references.SphinxDanglingReferences'>
+[app] adding transform: <class 'sphinx.transforms.references.SphinxDomains'>
+[app] setting up extension: 'sphinx.transforms.post_transforms'
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.ReferencesResolver'>
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.OnlyNodeTransform'>
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.SigElementFallbackTransform'>
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.PropagateDescDomain'>
+[app] setting up extension: 'sphinx.transforms.post_transforms.code'
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.code.HighlightLanguageTransform'>
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.code.TrimDoctestFlagsTransform'>
+[app] setting up extension: 'sphinx.transforms.post_transforms.images'
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.images.ImageDownloader'>
+[app] adding post transform: <class 'sphinx.transforms.post_transforms.images.DataURIExtractor'>
+[app] setting up extension: 'sphinx.versioning'
+[app] adding transform: <class 'sphinx.versioning.UIDTransform'>
+[app] setting up extension: 'sphinx.environment.collectors.dependencies'
+[app] adding environment collector: <class 'sphinx.environment.collectors.dependencies.DependenciesCollector'>
+[app] connecting event 'doctree-read' (500): <bound method DependenciesCollector.process_doc of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x000002209A60A0C0>> [id=29]
+[app] connecting event 'env-merge-info' (500): <bound method DependenciesCollector.merge_other of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x000002209A60A0C0>> [id=30]
+[app] connecting event 'env-purge-doc' (500): <bound method DependenciesCollector.clear_doc of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x000002209A60A0C0>> [id=31]
+[app] connecting event 'env-get-updated' (500): <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x000002209A60A0C0>> [id=32]
+[app] connecting event 'env-get-outdated' (500): <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x000002209A60A0C0>> [id=33]
+[app] setting up extension: 'sphinx.environment.collectors.asset'
+[app] adding environment collector: <class 'sphinx.environment.collectors.asset.ImageCollector'>
+[app] connecting event 'doctree-read' (500): <bound method ImageCollector.process_doc of <sphinx.environment.collectors.asset.ImageCollector object at 0x000002209A6EDB80>> [id=34]
+[app] connecting event 'env-merge-info' (500): <bound method ImageCollector.merge_other of <sphinx.environment.collectors.asset.ImageCollector object at 0x000002209A6EDB80>> [id=35]
+[app] connecting event 'env-purge-doc' (500): <bound method ImageCollector.clear_doc of <sphinx.environment.collectors.asset.ImageCollector object at 0x000002209A6EDB80>> [id=36]
+[app] connecting event 'env-get-updated' (500): <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.asset.ImageCollector object at 0x000002209A6EDB80>> [id=37]
+[app] connecting event 'env-get-outdated' (500): <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.asset.ImageCollector object at 0x000002209A6EDB80>> [id=38]
+[app] adding environment collector: <class 'sphinx.environment.collectors.asset.DownloadFileCollector'>
+[app] connecting event 'doctree-read' (500): <bound method DownloadFileCollector.process_doc of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x0000022099332ED0>> [id=39]
+[app] connecting event 'env-merge-info' (500): <bound method DownloadFileCollector.merge_other of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x0000022099332ED0>> [id=40]
+[app] connecting event 'env-purge-doc' (500): <bound method DownloadFileCollector.clear_doc of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x0000022099332ED0>> [id=41]
+[app] connecting event 'env-get-updated' (500): <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x0000022099332ED0>> [id=42]
+[app] connecting event 'env-get-outdated' (500): <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x0000022099332ED0>> [id=43]
+[app] setting up extension: 'sphinx.environment.collectors.metadata'
+[app] adding environment collector: <class 'sphinx.environment.collectors.metadata.MetadataCollector'>
+[app] connecting event 'doctree-read' (500): <bound method MetadataCollector.process_doc of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x000002209A6EDA30>> [id=44]
+[app] connecting event 'env-merge-info' (500): <bound method MetadataCollector.merge_other of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x000002209A6EDA30>> [id=45]
+[app] connecting event 'env-purge-doc' (500): <bound method MetadataCollector.clear_doc of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x000002209A6EDA30>> [id=46]
+[app] connecting event 'env-get-updated' (500): <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x000002209A6EDA30>> [id=47]
+[app] connecting event 'env-get-outdated' (500): <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x000002209A6EDA30>> [id=48]
+[app] setting up extension: 'sphinx.environment.collectors.title'
+[app] adding environment collector: <class 'sphinx.environment.collectors.title.TitleCollector'>
+[app] connecting event 'doctree-read' (500): <bound method TitleCollector.process_doc of <sphinx.environment.collectors.title.TitleCollector object at 0x000002209A6EE090>> [id=49]
+[app] connecting event 'env-merge-info' (500): <bound method TitleCollector.merge_other of <sphinx.environment.collectors.title.TitleCollector object at 0x000002209A6EE090>> [id=50]
+[app] connecting event 'env-purge-doc' (500): <bound method TitleCollector.clear_doc of <sphinx.environment.collectors.title.TitleCollector object at 0x000002209A6EE090>> [id=51]
+[app] connecting event 'env-get-updated' (500): <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.title.TitleCollector object at 0x000002209A6EE090>> [id=52]
+[app] connecting event 'env-get-outdated' (500): <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.title.TitleCollector object at 0x000002209A6EE090>> [id=53]
+[app] setting up extension: 'sphinx.environment.collectors.toctree'
+[app] adding environment collector: <class 'sphinx.environment.collectors.toctree.TocTreeCollector'>
+[app] connecting event 'doctree-read' (500): <bound method TocTreeCollector.process_doc of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x000002209A6EE1E0>> [id=54]
+[app] connecting event 'env-merge-info' (500): <bound method TocTreeCollector.merge_other of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x000002209A6EE1E0>> [id=55]
+[app] connecting event 'env-purge-doc' (500): <bound method TocTreeCollector.clear_doc of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x000002209A6EE1E0>> [id=56]
+[app] connecting event 'env-get-updated' (500): <bound method TocTreeCollector.get_updated_docs of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x000002209A6EE1E0>> [id=57]
+[app] connecting event 'env-get-outdated' (500): <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x000002209A6EE1E0>> [id=58]
+[app] setting up extension: 'alabaster'
+[app] adding HTML theme: 'alabaster', 'C:\\Users\\levse\\anaconda3\\envs\\sphinx\\Lib\\site-packages\\alabaster'
+[app] connecting event 'html-page-context' (500): <function update_context at 0x000002209A702DE0> [id=59]
+[app] setting up extension: 'sphinxcontrib.applehelp'
+C:\Users\levse\anaconda3\envs\sphinx\Lib\site-packages\sphinxcontrib\applehelp\__init__.py:24: RemovedInSphinx80Warning: The alias 'sphinx.util.SkipProgressMessage' is deprecated, use 'sphinx.util.display.SkipProgressMessage' instead. Check CHANGES for Sphinx API modifications.
+  from sphinx.util import SkipProgressMessage, progress_message
+C:\Users\levse\anaconda3\envs\sphinx\Lib\site-packages\sphinxcontrib\applehelp\__init__.py:24: RemovedInSphinx80Warning: The alias 'sphinx.util.progress_message' is deprecated, use 'sphinx.util.display.progress_message' instead. Check CHANGES for Sphinx API modifications.
+  from sphinx.util import SkipProgressMessage, progress_message
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinxcontrib.applehelp.AppleHelpBuilder'>
+[app] adding config value: ('applehelp_bundle_name', <function setup.<locals>.<lambda> at 0x000002209A702FC0>, 'applehelp', ())
+[app] adding config value: ('applehelp_bundle_id', None, 'applehelp', [<class 'str'>])
+[app] adding config value: ('applehelp_dev_region', 'en-us', 'applehelp', ())
+[app] adding config value: ('applehelp_bundle_version', '1', 'applehelp', ())
+[app] adding config value: ('applehelp_icon', None, 'applehelp', [<class 'str'>])
+[app] adding config value: ('applehelp_kb_product', <function setup.<locals>.<lambda> at 0x000002209A703100>, 'applehelp', ())
+[app] adding config value: ('applehelp_kb_url', None, 'applehelp', [<class 'str'>])
+[app] adding config value: ('applehelp_remote_url', None, 'applehelp', [<class 'str'>])
+[app] adding config value: ('applehelp_index_anchors', False, 'applehelp', [<class 'str'>])
+[app] adding config value: ('applehelp_min_term_length', None, 'applehelp', [<class 'str'>])
+[app] adding config value: ('applehelp_stopwords', <function setup.<locals>.<lambda> at 0x000002209A523060>, 'applehelp', ())
+[app] adding config value: ('applehelp_locale', <function setup.<locals>.<lambda> at 0x000002209A702F20>, 'applehelp', ())
+[app] adding config value: ('applehelp_title', <function setup.<locals>.<lambda> at 0x000002209A73F4C0>, 'applehelp', ())
+[app] adding config value: ('applehelp_codesign_identity', <function setup.<locals>.<lambda> at 0x000002209A73F600>, 'applehelp', ())
+[app] adding config value: ('applehelp_codesign_flags', <function setup.<locals>.<lambda> at 0x000002209A73F6A0>, 'applehelp', ())
+[app] adding config value: ('applehelp_indexer_path', '/usr/bin/hiutil', 'applehelp', ())
+[app] adding config value: ('applehelp_codesign_path', '/usr/bin/codesign', 'applehelp', ())
+[app] adding config value: ('applehelp_disable_external_tools', False, 'applehelp', ())
+[app] setting up extension: 'sphinxcontrib.devhelp'
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinxcontrib.devhelp.DevhelpBuilder'>
+[app] adding config value: ('devhelp_basename', <function setup.<locals>.<lambda> at 0x0000022094F5A200>, 'devhelp', ())
+[app] setting up extension: 'sphinxcontrib.htmlhelp'
+C:\Users\levse\anaconda3\envs\sphinx\Lib\site-packages\sphinxcontrib\htmlhelp\__init__.py:26: RemovedInSphinx80Warning: The alias 'sphinx.util.progress_message' is deprecated, use 'sphinx.util.display.progress_message' instead. Check CHANGES for Sphinx API modifications.
+  from sphinx.util import progress_message
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinxcontrib.htmlhelp.HTMLHelpBuilder'>
+[app] adding config value: ('htmlhelp_basename', <function default_htmlhelp_basename at 0x0000022099019BC0>, '', ())
+[app] adding config value: ('htmlhelp_file_suffix', None, 'html', [<class 'str'>])
+[app] adding config value: ('htmlhelp_link_suffix', None, 'html', [<class 'str'>])
+[app] setting up extension: 'sphinxcontrib.serializinghtml'
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinxcontrib.serializinghtml.JSONHTMLBuilder'>
+[app] adding builder: <class 'sphinxcontrib.serializinghtml.PickleHTMLBuilder'>
+[app] setting up extension: 'sphinxcontrib.qthelp'
+[app] setting up extension: 'sphinx.builders.html'
+[app] adding builder: <class 'sphinxcontrib.qthelp.QtHelpBuilder'>
+[app] adding config value: ('qthelp_basename', <function setup.<locals>.<lambda> at 0x000002209A73F740>, 'html', ())
+[app] adding config value: ('qthelp_namespace', None, 'html', [<class 'str'>])
+[app] adding config value: ('qthelp_theme', 'nonav', 'html', ())
+[app] adding config value: ('qthelp_theme_options', {}, 'html', ())
+[app] setting up extension: 'sphinx.ext.intersphinx'
+[app] adding config value: ('intersphinx_mapping', {}, True, ())
+[app] adding config value: ('intersphinx_cache_limit', 5, False, ())
+[app] adding config value: ('intersphinx_timeout', None, False, ())
+[app] adding config value: ('intersphinx_disabled_reftypes', ['std:doc'], True, ())
+[app] connecting event 'config-inited' (800): <function normalize_intersphinx_mapping at 0x000002209A77C040> [id=60]
+[app] connecting event 'builder-inited' (500): <function load_mappings at 0x000002209A76B380> [id=61]
+[app] connecting event 'source-read' (500): <function install_dispatcher at 0x000002209A76B9C0> [id=62]
+[app] connecting event 'missing-reference' (500): <function missing_reference at 0x000002209A76B920> [id=63]
+[app] adding post transform: <class 'sphinx.ext.intersphinx.IntersphinxRoleResolver'>
+[app] setting up extension: 'sphinx.ext.autosectionlabel'
+[app] adding config value: ('autosectionlabel_prefix_document', False, 'env', ())
+[app] adding config value: ('autosectionlabel_maxdepth', None, 'env', ())
+[app] connecting event 'doctree-read' (500): <function register_sections_as_label at 0x000002209A77C4A0> [id=64]
+[app] setting up extension: 'rst2pdf.pdfbuilder'
+[app] adding builder: <class 'rst2pdf.pdfbuilder.PDFBuilder'>
+[app] adding config value: ('pdf_documents', [], None, ())
+[app] adding config value: ('pdf_stylesheets', ['sphinx'], None, ())
+[app] adding config value: ('pdf_style_path', None, None, ())
+[app] adding config value: ('pdf_compressed', False, None, ())
+[app] adding config value: ('pdf_font_path', [], None, ())
+[app] adding config value: ('pdf_language', 'en_US', None, ())
+[app] adding config value: ('pdf_fit_mode', '', None, ())
+[app] adding config value: ('pdf_break_level', 0, None, ())
+[app] adding config value: ('pdf_inline_footnotes', True, None, ())
+[app] adding config value: ('pdf_verbosity', 0, None, ())
+[app] adding config value: ('pdf_use_index', True, None, ())
+[app] adding config value: ('pdf_domain_indices', True, None, ())
+[app] adding config value: ('pdf_use_modindex', True, None, ())
+[app] adding config value: ('pdf_use_coverpage', True, None, ())
+[app] adding config value: ('pdf_cover_template', 'sphinxcover.tmpl', None, ())
+[app] adding config value: ('pdf_appendices', [], None, ())
+[app] adding config value: ('pdf_splittables', True, None, ())
+[app] adding config value: ('pdf_repeat_table_rows', False, None, ())
+[app] adding config value: ('pdf_breakside', 'odd', None, ())
+[app] adding config value: ('pdf_default_dpi', 300, None, ())
+[app] adding config value: ('pdf_extensions', [], None, ())
+[app] adding config value: ('pdf_page_template', 'decoratedPage', None, ())
+[app] adding config value: ('pdf_invariant', False, None, ())
+[app] adding config value: ('pdf_real_footnotes', False, None, ())
+[app] adding config value: ('pdf_use_toc', True, None, ())
+[app] adding config value: ('pdf_toc_depth', 9999, None, ())
+[app] adding config value: ('pdf_use_numbered_links', False, None, ())
+[app] adding config value: ('pdf_fit_background_mode', 'scale', None, ())
+[app] adding config value: ('pdf_smartquotes', 0, None, ())
+[app] adding config value: ('section_header_depth', 2, None, ())
+[app] adding config value: ('pdf_baseurl', 'file://C:\\Users\\levse\\Desktop2\\CodingW\\manual\\TA_IssuerManual\\TA_IssuerManual\\', None, ())
+[app] setting up extension: 'sphinx.ext.todo'
+[app] adding event: 'todo-defined'
+[app] adding config value: ('todo_include_todos', False, 'html', ())
+[app] adding config value: ('todo_link_only', False, 'html', ())
+[app] adding config value: ('todo_emit_warnings', False, 'html', ())
+[app] adding node: (<class 'sphinx.ext.todo.todolist'>, {})
+[app] adding translation_handlers: <class 'sphinx.ext.todo.todolist'>, {}
+[app] adding node: (<class 'sphinx.ext.todo.todo_node'>, {'html': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>), 'latex': (<function latex_visit_todo_node at 0x00000220C9714E00>, <function latex_depart_todo_node at 0x00000220C9714EA0>), 'text': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>), 'man': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>), 'texinfo': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>)})
+[app] adding translation_handlers: <class 'sphinx.ext.todo.todo_node'>, {'html': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>), 'latex': (<function latex_visit_todo_node at 0x00000220C9714E00>, <function latex_depart_todo_node at 0x00000220C9714EA0>), 'text': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>), 'man': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>), 'texinfo': (<function visit_todo_node at 0x000002209A7034C0>, <function depart_todo_node at 0x00000220C9714D60>)}
+[app] adding directive: ('todo', <class 'sphinx.ext.todo.Todo'>)
+[app] adding directive: ('todolist', <class 'sphinx.ext.todo.TodoList'>)
+[app] adding domain: <class 'sphinx.ext.todo.TodoDomain'>
+[app] connecting event 'doctree-resolved' (500): <class 'sphinx.ext.todo.TodoListProcessor'> [id=65]
+[app] setting up extension: 'sphinx_search.extension'
+[app] adding config value: ('rtd_sphinx_search_file_type', 'minified', 'html', ())
+[app] adding config value: ('rtd_sphinx_search_default_filter', 'project:/', 'html', ())
+[app] adding config value: ('rtd_sphinx_search_filters', {}, 'html', ())
+[app] connecting event 'builder-inited' (500): <function inject_static_files at 0x00000220C97153A0> [id=66]
+[app] connecting event 'build-finished' (500): <function copy_asset_files at 0x00000220C9715300> [id=67]
+[app] setting up extension: 'sphinx_prompt'
+[app] adding directive: ('prompt', <class 'sphinx_prompt.PromptDirective'>)
+[app] connecting event 'env-purge-doc' (500): <bound method PromptCache.clear of <sphinx_prompt.PromptCache object at 0x00000220C96FF9E0>> [id=68]
+[app] setting up extension: 'sphinx.builders.linkcheck'
+[app] setting up extension: 'sphinx_copybutton'
+Adding copy buttons to code blocks...
+[app] connecting event 'builder-inited' (500): <function scb_static_path at 0x00000220C97368E0> [id=69]
+[app] adding config value: ('copybutton_prompt_text', '', 'html', ())
+[app] adding config value: ('copybutton_prompt_is_regexp', False, 'html', ())
+[app] adding config value: ('copybutton_only_copy_prompt_lines', True, 'html', ())
+[app] adding config value: ('copybutton_remove_prompts', True, 'html', ())
+[app] adding config value: ('copybutton_copy_empty_lines', True, 'html', ())
+[app] adding config value: ('copybutton_line_continuation_character', '', 'html', ())
+[app] adding config value: ('copybutton_here_doc_delimiter', '', 'html', ())
+[app] adding config value: ('copybutton_image_svg', '', 'html', ())
+[app] adding config value: ('copybutton_selector', 'div.highlight pre', 'html', ())
+[app] adding config value: ('copybutton_exclude', '.linenos', 'html', ())
+[app] adding config value: ('copybutton_image_path', '', 'html', ())
+[app] connecting event 'config-inited' (500): <function add_to_context at 0x00000220C9736980> [id=70]
+[app] adding stylesheet: 'copybutton.css'
+[app] adding js_file: 'clipboard.min.js', {'priority': 500}
+[app] adding js_file: 'copybutton.js', {'priority': 500}
+[app] setting up extension: 'sphinx_togglebutton'
+[app] connecting event 'builder-inited' (500): <function st_static_path at 0x00000220C9736B60> [id=71]
+[app] adding stylesheet: 'togglebutton.css'
+[app] adding config value: ('togglebutton_selector', '.toggle, .admonition.dropdown', 'html', ())
+[app] adding config value: ('togglebutton_hint', 'Click to show', 'html', ())
+[app] adding config value: ('togglebutton_hint_hide', 'Click to hide', 'html', ())
+[app] adding config value: ('togglebutton_open_on_print', True, 'html', ())
+[app] connecting event 'builder-inited' (500): <function insert_custom_selection_config at 0x00000220C9736C00> [id=72]
+[app] connecting event 'config-inited' (500): <function initialize_js_assets at 0x00000220C9736AC0> [id=73]
+[app] adding directive: ('toggle', <class 'sphinx_togglebutton.Toggle'>)
+[app] setting up extension: 'sphinx_tippy'
+[app] adding config value: ('tippy_props', {}, 'html', ())
+[app] adding config value: ('tippy_skip_urls', (), 'html', [<class 'list'>, <class 'tuple'>])
+[app] adding config value: ('tippy_skip_anchor_classes', ('headerlink', 'sd-stretched-link'), 'html', [<class 'list'>, <class 'tuple'>])
+[app] adding config value: ('tippy_anchor_parent_selector', '', 'html', ())
+[app] adding config value: ('tippy_custom_tips', {}, 'html', typing.Dict[str, str])
+[app] adding config value: ('tippy_tip_selector', 'figure, table, img, p, aside, div.admonition, div.literal-block-wrapper', 'html', ())
+[app] adding config value: ('tippy_enable_wikitips', True, 'html', ())
+[app] adding config value: ('tippy_enable_doitips', True, 'html', ())
+[app] adding config value: ('tippy_rtd_urls', [], 'html', [<class 'list'>, <class 'tuple'>])
+[app] adding config value: ('tippy_doi_api', 'https://api.crossref.org/works/', 'html', ())
+[app] adding config value: ('tippy_doi_template', "{% set attrs = data.message %}\n<div>\n    <h3>{{ attrs.title[0] }}</h3>\n    {% if attrs.author is defined %}\n    <p><b>Authors:</b> {{ attrs.author | map_join('given', 'family') | join(', ')  }}</p>\n    {% endif %}\n    <p><b>Publisher:</b> {{ attrs.publisher }}</p>\n    <p><b>Published:</b> {{ attrs.created['date-parts'][0] | join('-') }}</p>\n</div>\n", 'html', ())
+[app] adding config value: ('tippy_enable_mathjax', False, 'html', ())
+[app] adding config value: ('tippy_js', ('https://unpkg.com/@popperjs/core@2', 'https://unpkg.com/tippy.js@6'), 'html', [<class 'list'>, <class 'tuple'>])
+[app] adding config value: ('tippy_add_class', '', 'html', ())
+[app] connecting event 'builder-inited' (500): <function compile_config at 0x00000220C984A980> [id=74]
+[app] connecting event 'html-page-context' (450): <function collect_tips at 0x00000220C984AB60> [id=75]
+[app] connecting event 'build-finished' (500): <function write_tippy_js at 0x00000220C984B240> [id=76]
+[app] setting up extension: 'myst_parser'
+[app] adding source_suffix: '.md', 'markdown'
+[app] adding search source_parser: <class 'myst_parser.parsers.sphinx_.MystParser'>
+[app] adding role: ('sub-ref', <myst_parser.sphinx_ext.directives.SubstitutionReferenceRole object at 0x00000220C97258B0>)
+[app] adding directive: ('figure-md', <class 'myst_parser.sphinx_ext.directives.FigureMarkdown'>)
+[app] adding post transform: <class 'myst_parser.sphinx_ext.myst_refs.MystReferenceResolver'>
+[app] adding node: (<class 'docutils.nodes.rubric'>, {'html': (<function visit_rubric_html at 0x00000220C9A0BCE0>, <function depart_rubric_html at 0x00000220C9A0BD80>)})
+[app] adding translation_handlers: <class 'docutils.nodes.rubric'>, {'html': (<function visit_rubric_html at 0x00000220C9A0BCE0>, <function depart_rubric_html at 0x00000220C9A0BD80>)}
+[app] adding node: (<class 'docutils.nodes.container'>, {'html': (<function visit_container_html at 0x00000220C9A0BE20>, <function depart_container_html at 0x00000220C9A0BEC0>)})
+[app] adding translation_handlers: <class 'docutils.nodes.container'>, {'html': (<function visit_container_html at 0x00000220C9A0BE20>, <function depart_container_html at 0x00000220C9A0BEC0>)}
+[app] adding config value: ('myst_commonmark_only', False, 'env', typing.Any)
+[app] adding config value: ('myst_gfm_only', False, 'env', typing.Any)
+[app] adding config value: ('myst_enable_extensions', set(), 'env', typing.Any)
+[app] adding config value: ('myst_disable_syntax', [], 'env', typing.Any)
+[app] adding config value: ('myst_all_links_external', False, 'env', typing.Any)
+[app] adding config value: ('myst_url_schemes', {'http': None, 'https': None, 'mailto': None, 'ftp': None}, 'env', typing.Any)
+[app] adding config value: ('myst_ref_domains', None, 'env', typing.Any)
+[app] adding config value: ('myst_fence_as_directive', set(), 'env', typing.Any)
+[app] adding config value: ('myst_number_code_blocks', [], 'env', typing.Any)
+[app] adding config value: ('myst_title_to_header', False, 'env', typing.Any)
+[app] adding config value: ('myst_heading_anchors', 0, 'env', typing.Any)
+[app] adding config value: ('myst_heading_slug_func', None, 'env', typing.Any)
+[app] adding config value: ('myst_html_meta', {}, 'env', typing.Any)
+[app] adding config value: ('myst_footnote_transition', True, 'env', typing.Any)
+[app] adding config value: ('myst_words_per_minute', 200, 'env', typing.Any)
+[app] adding config value: ('myst_substitutions', {}, 'env', typing.Any)
+[app] adding config value: ('myst_sub_delimiters', ('{', '}'), 'env', typing.Any)
+[app] adding config value: ('myst_linkify_fuzzy_links', True, 'env', typing.Any)
+[app] adding config value: ('myst_dmath_allow_labels', True, 'env', typing.Any)
+[app] adding config value: ('myst_dmath_allow_space', True, 'env', typing.Any)
+[app] adding config value: ('myst_dmath_allow_digits', True, 'env', typing.Any)
+[app] adding config value: ('myst_dmath_double_inline', False, 'env', typing.Any)
+[app] adding config value: ('myst_update_mathjax', True, 'env', typing.Any)
+[app] adding config value: ('myst_mathjax_classes', 'tex2jax_process|mathjax_process|math|output_area', 'env', typing.Any)
+[app] adding config value: ('myst_enable_checkboxes', False, 'env', typing.Any)
+[app] connecting event 'builder-inited' (500): <function create_myst_config at 0x00000220C984B7E0> [id=77]
+[app] connecting event 'builder-inited' (500): <function override_mathjax at 0x00000220C9A2D1C0> [id=78]
+[app] emitting event: 'config-inited'(<sphinx.config.Config object at 0x0000022098A025D0>,)
+[app] adding js_file: None, {'priority': 500, 'body': "let toggleHintShow = 'Click to show';"}
+[app] adding js_file: None, {'priority': 500, 'body': "let toggleHintHide = 'Click to hide';"}
+[app] adding js_file: None, {'priority': 500, 'body': "let toggleOpenOnPrint = 'true';"}
+[app] adding js_file: 'togglebutton.js', {'priority': 500}
+locale_dir C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\locales\en\LC_MESSAGES does not exist
+[app] adding HTML theme: 'sphinx_book_theme', WindowsPath('C:/Users/levse/anaconda3/envs/sphinx/Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme')
+[app] adding js_file: 'scripts/sphinx-book-theme.js', {'priority': 500}
+[app] connecting event 'builder-inited' (500): <function update_mode_thebe_config at 0x00000220C9ACC2C0> [id=79]
+[app] connecting event 'builder-inited' (500): <function check_deprecation_keys at 0x00000220C9ACC360> [id=80]
+[app] connecting event 'builder-inited' (500): <function update_sourcename at 0x00000220C9ABF740> [id=81]
+[app] connecting event 'builder-inited' (500): <function update_context_with_repository_info at 0x00000220C9ABF7E0> [id=82]
+[app] connecting event 'html-page-context' (500): <function add_metadata_to_page at 0x00000220C9ABEFC0> [id=83]
+[app] connecting event 'html-page-context' (500): <function hash_html_assets at 0x00000220C9ACC220> [id=84]
+[app] connecting event 'html-page-context' (500): <function update_templates at 0x00000220C9ACC4A0> [id=85]
+[app] connecting event 'config-inited' (500): <function update_general_config at 0x00000220C9ACC400> [id=86]
+[app] adding node: (<class 'sphinx_book_theme.nodes.SideNoteNode'>, {'html': (<function visit_SideNoteNode at 0x00000220C9ABF060>, <function depart_SideNoteNode at 0x00000220C9ABF240>)})
+[app] adding translation_handlers: <class 'sphinx_book_theme.nodes.SideNoteNode'>, {'html': (<function visit_SideNoteNode at 0x00000220C9ABF060>, <function depart_SideNoteNode at 0x00000220C9ABF240>)}
+[app] connecting event 'html-page-context' (500): <function prep_header_buttons at 0x00000220C9ABF600> [id=87]
+[app] connecting event 'html-page-context' (501): <function add_launch_buttons at 0x00000220C9ABF9C0> [id=88]
+[app] connecting event 'html-page-context' (501): <function add_source_buttons at 0x00000220C9ABFCE0> [id=89]
+[app] connecting event 'html-page-context' (501): <function add_header_buttons at 0x00000220C9ABF6A0> [id=90]
+[app] adding directive: ('margin', <class 'sphinx_book_theme.directives.Margin'>)
+[app] adding post transform: <class 'sphinx_book_theme._transforms.HandleFootnoteTransform'>
+[app] adding HTML theme: 'pydata_sphinx_theme', 'C:\\Users\\levse\\anaconda3\\envs\\sphinx\\Lib\\site-packages\\pydata_sphinx_theme\\theme\\pydata_sphinx_theme'
+[app] adding post transform: <class 'pydata_sphinx_theme.short_link.ShortenLinkTransform'>
+[app] connecting event 'builder-inited' (500): <function setup_translators at 0x00000220C98F8220> [id=91]
+[app] connecting event 'builder-inited' (500): <function update_config at 0x00000220C9A2EC00> [id=92]
+[app] connecting event 'html-page-context' (500): <function setup_edit_url at 0x00000220C9A2EAC0> [id=93]
+[app] connecting event 'html-page-context' (500): <function add_toctree_functions at 0x00000220C9A2FEC0> [id=94]
+[app] connecting event 'html-page-context' (500): <function update_and_remove_templates at 0x00000220C98F8180> [id=95]
+[app] connecting event 'html-page-context' (500): <function setup_logo_path at 0x00000220C9A2EDE0> [id=96]
+[app] connecting event 'html-page-context' (500): <function set_secondary_sidebar_items at 0x00000220C9A2F2E0> [id=97]
+[app] connecting event 'build-finished' (500): <function overwrite_pygments_css at 0x00000220C9A2F9C0> [id=98]
+[app] connecting event 'build-finished' (500): <function copy_logo_images at 0x00000220C9A2F560> [id=99]
+[app] emitting event: 'builder-inited'()
+[app] adding js_file: 'js\\rtd_search_config.js', {'priority': 500}
+[app] adding js_file: 'js\\rtd_sphinx_search.min.js', {'priority': 500}
+[app] adding stylesheet: 'css\\rtd_sphinx_search.min.css'
+[app] adding js_file: None, {'priority': 500, 'body': "var togglebuttonSelector = '.toggle, .admonition.dropdown';"}
+myst v2.0.0: MdParserConfig(commonmark_only=False, gfm_only=False, enable_extensions={'attrs_inline', 'colon_fence'}, disable_syntax=[], all_links_external=False, url_schemes=('http', 'https', 'mailto', 'ftp'), ref_domains=None, fence_as_directive=set(), number_code_blocks=[], title_to_header=False, heading_anchors=0, heading_slug_func=None, html_meta={}, footnote_transition=True, words_per_minute=200, substitutions={}, linkify_fuzzy_links=True, dmath_allow_labels=True, dmath_allow_space=True, dmath_allow_digits=True, dmath_double_inline=False, update_mathjax=True, mathjax_classes='tex2jax_process|mathjax_process|math|output_area', enable_checkboxes=False, suppress_warnings=[], highlight_code_blocks=True)
+[app] Change of translator for the html builder.
+The default value for `navigation_with_keys` will change to `False` in the next release. If you wish to preserve the old behavior for your site, set `navigation_with_keys=True` in the `html_theme_options` dict in your `conf.py` file. Be aware that `navigation_with_keys = True` has negative accessibility implications: https://github.com/pydata/pydata-sphinx-theme/issues/1492
+locale_dir C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\locales\en\LC_MESSAGES does not exist
+building [mo]: targets for 0 po files that are out of date
+writing output...
+[build target] did not in env: 'shareholders/shareholders_ta_issuer'
+[build target] did not in env: 'company_information/profile'
+[build target] did not in env: 'company_information/company_documents'
+[build target] did not in env: 'contact_transfer_agent'
+[build target] did not in env: 'company_information/shareholder_documents'
+[build target] did not in env: 'knowledge_center/glossary'
+[build target] did not in env: 'my_accounts/index'
+[build target] did not in env: 'company_information/qa_findings'
+[build target] did not in env: 'reports/shareholders_report'
+[build target] did not in env: 'proxies/proxies'
+[build target] did not in env: 'reports/current_balance'
+[build target] did not in env: 'company_information/index'
+[build target] did not in env: 'company_information/contacts_web_users'
+[build target] did not in env: 'reports/index'
+[build target] did not in env: 'my_accounts/my_accounts'
+[build target] did not in env: 'proxies/index'
+[build target] did not in env: 'contact_transfer_agent/index'
+[build target] did not in env: 'certificates/view_certificates'
+[build target] did not in env: 'reports/ownership_percentage'
+[build target] did not in env: 'knowledge_center/faq'
+[build target] did not in env: 'index'
+[build target] did not in env: 'company_information/email_history'
+[build target] did not in env: 'shareholders/index'
+[build target] did not in env: 'certificates/index'
+[build target] did not in env: 'reports/latest_transactions'
+[build target] did not in env: 'knowledge_center/useful_documents'
+[build target] did not in env: 'company_information/dashboard'
+[build target] did not in env: 'knowledge_center/index'
+building [html]: targets for 28 source files that are out of date
+updating environment: locale_dir C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\locales\en\LC_MESSAGES does not exist
+[app] emitting event: 'env-get-outdated'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, {'shareholders/shareholders_ta_
+[new config] 28 added, 0 changed, 0 removed
+[app] emitting event: 'env-before-read-docs'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, ['certificates/index', 'certifi
+reading sources... [  4%] certificates/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'certificates/index')
+[app] emitting event: 'source-read'('certificates/index', ['\n************\nCertificates\n************\n\n\nThe **Certificate lookup**
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup screen." uri="../_static/pdf_images...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, View Details Button." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Information T...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Restriction T...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Stops Tab." u...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Issuing Trans...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Tax Lots Tab....
+[app] emitting event: 'doctree-read'(<document: <section "certificates"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\index.rst:4: section "Certificates" gets labeled as "certificates/index:certificates"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:4: section "View Certificate Details" gets labeled as "certificates/index:view certificate details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:26: section "Information Tab" gets labeled as "certificates/index:information tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:55: section "Restriction Tab" gets labeled as "certificates/index:restriction tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:79: section "Stops Tab" gets labeled as "certificates/index:stops tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:97: section "Issuing Transaction Tab" gets labeled as "certificates/index:issuing transaction tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:115: section "Tax Lots Tab" gets labeled as "certificates/index:tax lots tab"
+reading sources... [  7%] certificates/view_certificates
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'certificates/view_certificates
+[app] emitting event: 'source-read'('certificates/view_certificates', ['\n\nView Certificate Details\n========================\n\n\nTo
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, View Details Button." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Information T...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Restriction T...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Stops Tab." u...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Issuing Trans...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Certificates, Certificate Lookup, Certificate Details, Tax Lots Tab....
+[app] emitting event: 'doctree-read'(<document: <section "view certificate details"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:4: section "View Certificate Details" gets labeled as "certificates/view_certificates:view certificate details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:26: section "Information Tab" gets labeled as "certificates/view_certificates:information tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:55: section "Restriction Tab" gets labeled as "certificates/view_certificates:restriction tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:79: section "Stops Tab" gets labeled as "certificates/view_certificates:stops tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:97: section "Issuing Transaction Tab" gets labeled as "certificates/view_certificates:issuing transaction tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\certificates\view_certificates.rst:115: section "Tax Lots Tab" gets labeled as "certificates/view_certificates:tax lots tab"
+reading sources... [ 11%] company_information/company_documents
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/company_do
+[app] emitting event: 'source-read'('company_information/company_documents', ['#################\nCompany Documents\n#################\
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Company Documents screen." uri="../_static/pdf_...
+[app] emitting event: 'doctree-read'(<document: <section "company documents"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\company_documents.rst:3: section "Company Documents" gets labeled as "company_information/company_documents:company documents"
+reading sources... [ 14%] company_information/contacts_web_users
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/contacts_w
+[app] emitting event: 'source-read'('company_information/contacts_web_users', ['\n####################\nContacts & Web Users\n#########
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Contacts and Web Users screen." uri="../_static...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, View Web Account butt...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Deta...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Per...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[app] emitting event: 'doctree-read'(<document: <section "contacts & web users"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:4: section "Contacts & Web Users" gets labeled as "company_information/contacts_web_users:contacts & web users"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:28: section "View Web Account" gets labeled as "company_information/contacts_web_users:view web account"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:50: section "Web Account Users Detail Screen" gets labeled as "company_information/contacts_web_users:web account users detail screen"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:76: section "Permissions" gets labeled as "company_information/contacts_web_users:permissions"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:117: section "View Contact Information" gets labeled as "company_information/contacts_web_users:view contact information"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:147: section "Upload, Download, or Delete Documents to the Web Account User or Contact" gets labeled as "company_information/contacts_web_users:upload, download, or delete documents to the web account user or contact"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:151: section "Add Documents" gets labeled as "company_information/contacts_web_users:add documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:165: section "Delete Documents" gets labeled as "company_information/contacts_web_users:delete documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:187: section "Download Documents" gets labeled as "company_information/contacts_web_users:download documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “4” (ordinal 4) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “5” (ordinal 5) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+reading sources... [ 18%] company_information/dashboard
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/dashboard'
+[app] emitting event: 'source-read'('company_information/dashboard', [".. raw:: pdf\n\n   PageBreak\n\nDashboard\n=========\n\nThe **Da
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Dashboard." uri="../_static/pdf_images/companyInfo_Dashboard.png"/>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder List screen." uri="../_static/pdf_images/shareholder_lis...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Create Reports, View More" uri="../_static/pdf_images/create_reports...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Current Balance Report screen." uri="../_static/pdf_images/page_10_i...
+[app] emitting event: 'doctree-read'(<document: <raw...><section "dashboard"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:6: section "Dashboard" gets labeled as "company_information/dashboard:dashboard"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:16: section "Manage Shareholders" gets labeled as "company_information/dashboard:manage shareholders"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:28: section "Create Reports" gets labeled as "company_information/dashboard:create reports"
+reading sources... [ 21%] company_information/email_history
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/email_hist
+[app] emitting event: 'source-read'('company_information/email_history', ['Email History\n=============\n\nUse this option to create ne
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, Email List screen." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>New Email</emphasis> screen opens with the <strong>Reply To<...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, New Email screen." uri="../_stat...
+[i18n] PATCH: 'docutils.nodes.image' to have source and line: <image alt="Company Information, Email History, New Email screen." uri="../_stat...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The newly sent email is listed in the <strong>Email List</strong>.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, View Email button." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>View Email</emphasis> screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, View Email screen." uri="../_sta...
+[app] emitting event: 'doctree-read'(<document: <section "email history"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\email_history.rst:2: section "Email History" gets labeled as "company_information/email_history:email history"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\email_history.rst:12: section "Send a New Email" gets labeled as "company_information/email_history:send a new email"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\email_history.rst:34: section "View Email Details" gets labeled as "company_information/email_history:view email details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/email_history.rst:2: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+reading sources... [ 25%] company_information/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/index')
+[app] emitting event: 'source-read'('company_information/index', ['\n*******************\nCompany Information\n*******************\n\nI
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Dashboard." uri="../_static/pdf_images/companyInfo_Dashboard.png"/>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder List screen." uri="../_static/pdf_images/shareholder_lis...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Create Reports, View More" uri="../_static/pdf_images/create_reports...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Current Balance Report screen." uri="../_static/pdf_images/page_10_i...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen." uri="../_static/pdf_images/company...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen, Edit Company Info, Edit icon locati...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen, Edit Company Info, Edit fields" sca...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen, Save icon" scale="75" uri="../_stat...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Logo for Reports &amp; Certificate Layout." uri="../_static/pdf_imag...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Site Logo." uri="../_static/pdf_images/site_logo.png"/>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Activity Summary location." uri="../_static/pdf_images/activity_summ...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Activity Summary, Download or View Selection" uri="../_static/pdf_im...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Contacts and Web Users screen." uri="../_static...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, View Web Account butt...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Deta...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Per...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User, Edi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Web Account Users screen, Web Account User Cont...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Company Documents screen." uri="../_static/pdf_...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Share Documents with Shareholder screen" uri="....
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Add Category</emphasis> popup opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Add Category popup window." uri="../_static/pdf_images/share_documen...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The popup closes, and the category displays below the create button.</line...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Example created category." uri="../_static/pdf_images/page_36_image_...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Update Document popup window." uri="../_static/pdf_images/page_36_im...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The popup closes, and the document is nested under the category.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Document added to category window." uri="../_static/pdf_images/page_...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Update Document</emphasis> popup window opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Update Document popup window." scale="75" uri="../_static/pdf_images...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Confirmation</emphasis> popup dialog box opens. (See Figure ...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The document is deleted from the category.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, Email List screen." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>New Email</emphasis> screen opens with the <strong>Reply To<...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, New Email screen." uri="../_stat...
+[i18n] PATCH: 'docutils.nodes.image' to have source and line: <image alt="Company Information, Email History, New Email screen." uri="../_stat...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The newly sent email is listed in the <strong>Email List</strong>.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, View Email button." uri="../_sta...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>View Email</emphasis> screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Email History, View Email screen." uri="../_sta...
+[app] emitting event: 'doctree-read'(<document: <section "company information"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\index.rst:4: section "Company Information" gets labeled as "company_information/index:company information"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:6: section "Dashboard" gets labeled as "company_information/index:dashboard"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:16: section "Manage Shareholders" gets labeled as "company_information/index:manage shareholders"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:28: section "Create Reports" gets labeled as "company_information/index:create reports"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:3: section "Profile" gets labeled as "company_information/index:profile"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:22: section "Edit Company Information" gets labeled as "company_information/index:edit company information"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:63: section "View Logo for Reports & Certificate Layout" gets labeled as "company_information/index:view logo for reports & certificate layout"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:77: section "View Site Logo" gets labeled as "company_information/index:view site logo"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:89: section "Activity Summary" gets labeled as "company_information/index:activity summary"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:4: section "Contacts & Web Users" gets labeled as "company_information/index:contacts & web users"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:28: section "View Web Account" gets labeled as "company_information/index:view web account"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:50: section "Web Account Users Detail Screen" gets labeled as "company_information/index:web account users detail screen"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:147: section "Upload, Download, or Delete Documents to the Web Account User or Contact" gets labeled as "company_information/index:upload, download, or delete documents to the web account user or contact"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:151: section "Add Documents" gets labeled as "company_information/index:add documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:165: section "Delete Documents" gets labeled as "company_information/index:delete documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:187: section "Download Documents" gets labeled as "company_information/index:download documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\company_documents.rst:3: section "Company Documents" gets labeled as "company_information/index:company documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:2: section "Shareholder Documents" gets labeled as "company_information/index:shareholder documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:18: section "Create a Document Category" gets labeled as "company_information/index:create a document category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:41: section "Add a Document to a Category" gets labeled as "company_information/index:add a document to a category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:66: section "Edit a Document in a Category" gets labeled as "company_information/index:edit a document in a category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:87: section "Delete a Document in a Category" gets labeled as "company_information/index:delete a document in a category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\email_history.rst:2: section "Email History" gets labeled as "company_information/index:email history"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\email_history.rst:12: section "Send a New Email" gets labeled as "company_information/index:send a new email"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\email_history.rst:34: section "View Email Details" gets labeled as "company_information/index:view email details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+source/company_information/contacts_web_users.rst:75: (SEVERE/4) Title level inconsistent:
+
+Permissions
+~~~~~~~~~~~ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “4” (ordinal 4) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “5” (ordinal 5) [filtered system message]
+source/company_information/contacts_web_users.rst:116: (SEVERE/4) Title level inconsistent:
+
+View Contact Information
+~~~~~~~~~~~~~~~~~~~~~~~~ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+source/company_information/shareholder_documents.rst:21: (WARNING/2) Inline strong start-string without end-string. [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+reading sources... [ 29%] company_information/profile
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/profile')
+[app] emitting event: 'source-read'('company_information/profile', ['\nProfile\n=======\n\nThis section allows you to:\n\n- :ref:`Edit
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen." uri="../_static/pdf_images/company...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen, Edit Company Info, Edit icon locati...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen, Edit Company Info, Edit fields" sca...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Profile, Company Profile screen, Save icon" scale="75" uri="../_stat...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Logo for Reports &amp; Certificate Layout." uri="../_static/pdf_imag...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Site Logo." uri="../_static/pdf_images/site_logo.png"/>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Activity Summary location." uri="../_static/pdf_images/activity_summ...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Activity Summary, Download or View Selection" uri="../_static/pdf_im...
+[app] emitting event: 'doctree-read'(<document: <section "profile"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:3: section "Profile" gets labeled as "company_information/profile:profile"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:22: section "Edit Company Information" gets labeled as "company_information/profile:edit company information"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:63: section "View Logo for Reports & Certificate Layout" gets labeled as "company_information/profile:view logo for reports & certificate layout"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:77: section "View Site Logo" gets labeled as "company_information/profile:view site logo"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:89: section "Activity Summary" gets labeled as "company_information/profile:activity summary"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/profile.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/profile.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+reading sources... [ 32%] company_information/qa_findings
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/qa_finding
+[app] emitting event: 'source-read'('company_information/qa_findings', ['Contacts & Web Users\n====================\n\n\n- The formatti
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Web User Bug" uri="../_static/pdf_images/QA/web_user_bug.png"/>
+[app] emitting event: 'doctree-read'(<document: <section "contacts & web users"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\qa_findings.rst:2: section "Contacts & Web Users" gets labeled as "company_information/qa_findings:contacts & web users"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/qa_findings.rst:7: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/QA/web_user_bug.png
+   :alt: Web User Bug
+   :align: center
+
+    Web User Bug
+ [filtered system message]
+reading sources... [ 36%] company_information/shareholder_documents
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'company_information/shareholde
+[app] emitting event: 'source-read'('company_information/shareholder_documents', ['Shareholder Documents\n=====================\n\nUse
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information, Share Documents with Shareholder screen" uri="....
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Add Category</emphasis> popup opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Add Category popup window." uri="../_static/pdf_images/share_documen...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The popup closes, and the category displays below the create button.</line...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Example created category." uri="../_static/pdf_images/page_36_image_...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Update Document popup window." uri="../_static/pdf_images/page_36_im...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The popup closes, and the document is nested under the category.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Document added to category window." uri="../_static/pdf_images/page_...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Update Document</emphasis> popup window opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Update Document popup window." scale="75" uri="../_static/pdf_images...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Confirmation</emphasis> popup dialog box opens. (See Figure ...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The document is deleted from the category.</line>
+[app] emitting event: 'doctree-read'(<document: <section "shareholder documents"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:2: section "Shareholder Documents" gets labeled as "company_information/shareholder_documents:shareholder documents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:18: section "Create a Document Category" gets labeled as "company_information/shareholder_documents:create a document category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:41: section "Add a Document to a Category" gets labeled as "company_information/shareholder_documents:add a document to a category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:66: section "Edit a Document in a Category" gets labeled as "company_information/shareholder_documents:edit a document in a category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\shareholder_documents.rst:87: section "Delete a Document in a Category" gets labeled as "company_information/shareholder_documents:delete a document in a category"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/shareholder_documents.rst:21: (WARNING/2) Inline strong start-string without end-string. [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/shareholder_documents.rst:2: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/shareholder_documents.rst:2: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/shareholder_documents.rst:2: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+reading sources... [ 39%] contact_transfer_agent
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'contact_transfer_agent')
+[app] emitting event: 'source-read'('contact_transfer_agent', ['\n**********************\nContact Transfer Agent\n*********************
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The Contact Us Help Desk Tickets screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Help Desk, Contact Us Contact Us Help Desk Tickets screen." uri="_st...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The issue is sent to us and is logged in the table below the <strong>Cance...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Example of logged issue." uri="_static/pdf_images/page_92_image_2.pn...
+[app] emitting event: 'doctree-read'(<document: <section "contact transfer agent"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\contact_transfer_agent.rst:4: section "Contact Transfer Agent" gets labeled as "contact_transfer_agent:contact transfer agent"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\contact_transfer_agent.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+reading sources... [ 43%] contact_transfer_agent/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'contact_transfer_agent/index')
+[app] emitting event: 'source-read'('contact_transfer_agent/index', ['\n**********************\nContact Transfer Agent\n***************
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Contact Transfer Agent page." uri="../_static/pdf_images/contact_tra...
+[app] emitting event: 'doctree-read'(<document: <section "contact transfer agent"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\contact_transfer_agent\index.rst:4: section "Contact Transfer Agent" gets labeled as "contact_transfer_agent/index:contact transfer agent"
+reading sources... [ 46%] index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'index')
+[app] emitting event: 'source-read'('index', ['\n\n############################\nTransfer Agent Issuer Manual\n########################
+[app] emitting event: 'doctree-read'(<document: <section "transfer agent issuer manual"...><section "tab ...>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\index.rst:5: section "Transfer Agent Issuer Manual" gets labeled as "index:transfer agent issuer manual"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\index.rst:20: section "Table of Contents" gets labeled as "index:table of contents"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\index.rst:5: (INFO/1) Enumerated list start value not ordinal-1: “D” (ordinal 4) [filtered system message]
+reading sources... [ 50%] knowledge_center/faq
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'knowledge_center/faq')
+[app] emitting event: 'source-read'('knowledge_center/faq', ['\nFAQs\n====\n\nUse this option to find answers to basic questions for:\n
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center, FAQs." uri="../_static/pdf_images/page_90_image_1....
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The answer displays below the question as shown in the figure below.</line...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center FAQs, topic question and answer." uri="../_static/p...
+[app] emitting event: 'doctree-read'(<document: <section "faqs"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\faq.rst:3: section "FAQs" gets labeled as "knowledge_center/faq:faqs"
+reading sources... [ 54%] knowledge_center/glossary
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'knowledge_center/glossary')
+[app] emitting event: 'source-read'('knowledge_center/glossary', ['Glossary\n========\n\nUse this option to view acronyms and terminolo
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center, Glossary." uri="../_static/pdf_images/page_91_imag...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center, Glossary list term and definition." uri="../_stati...
+[app] emitting event: 'doctree-read'(<document: <section "glossary"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\glossary.rst:2: section "Glossary" gets labeled as "knowledge_center/glossary:glossary"
+reading sources... [ 57%] knowledge_center/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'knowledge_center/index')
+[app] emitting event: 'source-read'('knowledge_center/index', ['\n****************\nKnowledge Center\n****************\n\nThe **Knowled
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center, FAQs." uri="../_static/pdf_images/page_90_image_1....
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The answer displays below the question as shown in the figure below.</line...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center FAQs, topic question and answer." uri="../_static/p...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center, Glossary." uri="../_static/pdf_images/page_91_imag...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Knowledge Center, Glossary list term and definition." uri="../_stati...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Useful documents page." uri="../_static/pdf_images/page_91_image_3.p...
+[app] emitting event: 'doctree-read'(<document: <section "knowledge center"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\index.rst:4: section "Knowledge Center" gets labeled as "knowledge_center/index:knowledge center"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\faq.rst:3: section "FAQs" gets labeled as "knowledge_center/index:faqs"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\glossary.rst:2: section "Glossary" gets labeled as "knowledge_center/index:glossary"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\useful_documents.rst:3: section "Useful Documents" gets labeled as "knowledge_center/index:useful documents"
+reading sources... [ 61%] knowledge_center/useful_documents
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'knowledge_center/useful_docume
+[app] emitting event: 'source-read'('knowledge_center/useful_documents', ['\nUseful Documents\n================\n\nUse this option to v
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Useful documents page." uri="../_static/pdf_images/page_91_image_3.p...
+[app] emitting event: 'doctree-read'(<document: <section "useful documents"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\useful_documents.rst:3: section "Useful Documents" gets labeled as "knowledge_center/useful_documents:useful documents"
+reading sources... [ 64%] my_accounts/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'my_accounts/index')
+[app] emitting event: 'source-read'('my_accounts/index', ['\n***********\nMy Accounts\n***********\n\nUse the **My Accounts** option to
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="My Accounts, *Manage my Accounts* screen." uri="../_static/pdf_image...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>If you are <emphasis>not</emphasis> linked to an account, the <pending_xre...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Link to Shareholder account</emphasis> screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="My Accounts, *Link to Shareholder account* screen." uri="../_static/...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The newly linked Shareholder account is added in the <strong>Shareholder A...
+[app] emitting event: 'doctree-read'(<document: <section "my accounts"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts\index.rst:4: section "My Accounts" gets labeled as "my_accounts/index:my accounts"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts\my_accounts.rst:3: section "Link to My Shareholder Account" gets labeled as "my_accounts/index:link to my shareholder account"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts/index.rst:4: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+reading sources... [ 68%] my_accounts/my_accounts
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'my_accounts/my_accounts')
+[app] emitting event: 'source-read'('my_accounts/my_accounts', ['\nLink to My Shareholder Account\n==============================\n\n1.
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Link to Shareholder account</emphasis> screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="My Accounts, *Link to Shareholder account* screen." uri="../_static/...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The newly linked Shareholder account is added in the <strong>Shareholder A...
+[app] emitting event: 'doctree-read'(<document: <section "link to my shareholder account"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts\my_accounts.rst:3: section "Link to My Shareholder Account" gets labeled as "my_accounts/my_accounts:link to my shareholder account"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts/my_accounts.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts/my_accounts.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+reading sources... [ 71%] proxies/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'proxies/index')
+[app] emitting event: 'source-read'('proxies/index', ['*******\nProxies\n*******\n\n.. include:: proxies.rst\n\n'])
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies List" uri="../_static/pdf_images/proxies_list.png"/>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies List, View Details" uri="../_static/pdf_images/proxies_list_...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details Screen, Overview" uri="../_static/pdf_images/proxy_d...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Proposal Summary" uri="../_static/pdf_images/proxie...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Download Summary" uri="../_static/pdf_images/proxie...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Shareholder Votes" uri="../_static/pdf_images/proxi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Download Shareholder Votes" uri="../_static/pdf_ima...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Shareholders Not Voted" uri="../_static/pdf_images/...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxy Details, Proxy ID Location" uri="../_static/pdf_images/proxy_i...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Download Shareholders Not Voted &quot;Mailing List&...
+[app] emitting event: 'doctree-read'(<document: <section "proxies"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\index.rst:3: section "Proxies" gets labeled as "proxies/index:proxies"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:18: section "Proxies Details" gets labeled as "proxies/index:proxies details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:34: section "Proposal Summary" gets labeled as "proxies/index:proposal summary"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:63: section "Shareholder Votes" gets labeled as "proxies/index:shareholder votes"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:86: section "Shareholders (Not) Voted" gets labeled as "proxies/index:shareholders (not) voted"
+reading sources... [ 75%] proxies/proxies
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'proxies/proxies')
+[app] emitting event: 'source-read'('proxies/proxies', ['\nThe *Proxies List* screen provides an overview of information related to Pro
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies List" uri="../_static/pdf_images/proxies_list.png"/>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies List, View Details" uri="../_static/pdf_images/proxies_list_...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details Screen, Overview" uri="../_static/pdf_images/proxy_d...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Proposal Summary" uri="../_static/pdf_images/proxie...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Download Summary" uri="../_static/pdf_images/proxie...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Shareholder Votes" uri="../_static/pdf_images/proxi...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Download Shareholder Votes" uri="../_static/pdf_ima...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Shareholders Not Voted" uri="../_static/pdf_images/...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxy Details, Proxy ID Location" uri="../_static/pdf_images/proxy_i...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Proxies Details, Download Shareholders Not Voted &quot;Mailing List&...
+[app] emitting event: 'doctree-read'(<document: <paragraph...><figure...><paragraph...><figure...><secti ...>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:18: section "Proxies Details" gets labeled as "proxies/proxies:proxies details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:34: section "Proposal Summary" gets labeled as "proxies/proxies:proposal summary"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:63: section "Shareholder Votes" gets labeled as "proxies/proxies:shareholder votes"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:86: section "Shareholders (Not) Voted" gets labeled as "proxies/proxies:shareholders (not) voted"
+reading sources... [ 79%] reports/current_balance
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'reports/current_balance')
+[app] emitting event: 'source-read'('reports/current_balance', ['Current Balance\n===============\n\nUse this option to view informatio
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays in the table below the buttons.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Current Balance Report." uri="../_static/pdf_images/page_79...
+[app] emitting event: 'doctree-read'(<document: <section "current balance"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\current_balance.rst:2: section "Current Balance" gets labeled as "reports/current_balance:current balance"
+reading sources... [ 82%] reports/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'reports/index')
+[app] emitting event: 'source-read'('reports/index', ['*******\nReports\n*******\n\nThe **Reports** section allows you to view the foll
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays in the table below the buttons.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Current Balance Report." uri="../_static/pdf_images/page_79...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Latest Transactions Report." uri="../_static/pdf_images/lat...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays below the buttons.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Shareholders Report." uri="../_static/pdf_images/shareholde...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays in the table below the buttons.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Ownership Percentage Report." uri="../_static/pdf_images/ow...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays in the table below the buttons.</line>
+[app] emitting event: 'doctree-read'(<document: <section "reports"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\index.rst:3: section "Reports" gets labeled as "reports/index:reports"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\current_balance.rst:2: section "Current Balance" gets labeled as "reports/index:current balance"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\latest_transactions.rst:2: section "Latest Transactions" gets labeled as "reports/index:latest transactions"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\shareholders_report.rst:2: section "Shareholders Report" gets labeled as "reports/index:shareholders report"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\ownership_percentage.rst:2: section "Ownership Percentage Report" gets labeled as "reports/index:ownership percentage report"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports/index.rst:8: (WARNING/2) Inline interpreted text or phrase reference start-string without end-string. [filtered system message]
+reading sources... [ 86%] reports/latest_transactions
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'reports/latest_transactions')
+[app] emitting event: 'source-read'('reports/latest_transactions', ['Latest Transactions\n===================\n\nUse this option to vie
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Latest Transactions Report." uri="../_static/pdf_images/lat...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays below the buttons.</line>
+[app] emitting event: 'doctree-read'(<document: <section "latest transactions"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\latest_transactions.rst:2: section "Latest Transactions" gets labeled as "reports/latest_transactions:latest transactions"
+reading sources... [ 89%] reports/ownership_percentage
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'reports/ownership_percentage')
+[app] emitting event: 'source-read'('reports/ownership_percentage', ['Ownership Percentage Report\n===========================\n\nUse t
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Ownership Percentage Report." uri="../_static/pdf_images/ow...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays in the table below the buttons.</line>
+[app] emitting event: 'doctree-read'(<document: <section "ownership percentage report"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\ownership_percentage.rst:2: section "Ownership Percentage Report" gets labeled as "reports/ownership_percentage:ownership percentage report"
+reading sources... [ 93%] reports/shareholders_report
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'reports/shareholders_report')
+[app] emitting event: 'source-read'('reports/shareholders_report', ['Shareholders Report\n===================\n\nUse this option to vie
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Reports, Shareholders Report." uri="../_static/pdf_images/shareholde...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The information displays in the table below the buttons.</line>
+[app] emitting event: 'doctree-read'(<document: <section "shareholders report"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\shareholders_report.rst:2: section "Shareholders Report" gets labeled as "reports/shareholders_report:shareholders report"
+reading sources... [ 96%] shareholders/index
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'shareholders/index')
+[app] emitting event: 'source-read'('shareholders/index', ['************\nShareholders\n************\n\n\nThe **Shareholders List** scr
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company, Information Shareholders List screen." uri="../_static/pdf_...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, ``View Details`` icon." uri=...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Shareholder Detail</emphasis> screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, categories." uri="../_static...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The selected category opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shareholder Information tab"...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, ``Contact Shareholder`` icon...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Email Information</emphasis> popup window opens with the <st...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The email body auto-fills in the salutation and shareholder's name.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Contact Shareholder, Email Information screen." uri=".....
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Mailing Address tab." uri="....
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Mailing Address tab, Edit ic...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Mailing Address tab, Edit sc...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab." uri="...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, Filter...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, Compan...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, Shares...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, downlo...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, Filter...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, Compan...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Outstanding Common Stock, do...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Email Statement, Cancel Cert...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Email Statement, Button." ur...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Email Statement, Popup." uri...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Email Statement, Attachment....
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Email Statement, Send." uri=...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Holdings Summary tab, Certif...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholders Detail, screen view details icon." uri="../_static/pdf_...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The Certificate Detail screen opens. For more information on this screen s...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shared Documents tab." uri="...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shared Documents tab, Add Do...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shared Documents tab, Add Do...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shared Documents tab, Add Do...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shared Documents tab, Add Do...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Shared Documents tab, Add Do...
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Shareholder, Shareholder detail screen, Web Accounts tab." uri="../_...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Web Account Details</emphasis> screen opens.</line>
+[i18n] PATCH: 'docutils.nodes.image' to have source, line: <image alt="Company Information Web Account Users Web Account Details screen." u...
+[i18n] PATCH: 'docutils.nodes.line' to have source and line: <line>The <emphasis>Shareholder Details</emphasis> screen opens. See <pending_xr...
+[app] emitting event: 'doctree-read'(<document: <section "shareholders"...>>,)
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:3: section "Shareholders" gets labeled as "shareholders/index:shareholders"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:19: section "View Shareholder Details" gets labeled as "shareholders/index:view shareholder details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:63: section "Shareholder Information Tab" gets labeled as "shareholders/index:shareholder information tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:89: section "Contact Shareholder" gets labeled as "shareholders/index:contact shareholder"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:116: section "Mailing Address Tab" gets labeled as "shareholders/index:mailing address tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:145: section "Holdings Summary Tab" gets labeled as "shareholders/index:holdings summary tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:157: section "To View Status Report of Your Holdings" gets labeled as "shareholders/index:to view status report of your holdings"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:204: section "View Status Report for Outstanding Stock" gets labeled as "shareholders/index:view status report for outstanding stock"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:229: section "Email a Statement" gets labeled as "shareholders/index:email a statement"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:276: section "Certificates" gets labeled as "shareholders/index:certificates"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:296: section "Shared Documents Tab" gets labeled as "shareholders/index:shared documents tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:306: section "Add a Document" gets labeled as "shareholders/index:add a document"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:364: section "Web Accounts Tab" gets labeled as "shareholders/index:web accounts tab"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:384: section "View Web Account Details" gets labeled as "shareholders/index:view web account details"
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “4” (ordinal 4) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “5” (ordinal 5) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “4” (ordinal 4) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “5” (ordinal 5) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “6” (ordinal 6) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:269: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_email_statement_send.png
+   :alt: Shareholder, Shareholder detail screen, Email Statement, Send.
+
+    Shareholder, Shareholder detail screen, Email Statement, Send.
+
+ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:310: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document.
+ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:318: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Upload Document.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Upload Document.
+ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “3” (ordinal 3) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “4” (ordinal 4) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:337: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_screen.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document screen.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document screen.
+ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “5” (ordinal 5) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:346: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document_notify.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Notify Shareholder.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Notify Shareholder.
+
+ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “5” (ordinal 5) [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:355: (ERROR/3) Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document_save.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Save.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Save.
+
+
+ [filtered system message]
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:3: (INFO/1) Enumerated list start value not ordinal-1: “2” (ordinal 2) [filtered system message]
+reading sources... [100%] shareholders/shareholders_ta_issuer
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, 'shareholders/shareholders_ta_i
+[app] emitting event: 'source-read'('shareholders/shareholders_ta_issuer', ['\n\n\n'])
+[app] emitting event: 'doctree-read'(<document: >,)
+
+[app] emitting event: 'env-updated'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>,)
+source/company_information/contacts_web_users.rst:75: CRITICAL: Title level inconsistent:
+
+Permissions
+~~~~~~~~~~~
+source/company_information/contacts_web_users.rst:116: CRITICAL: Title level inconsistent:
+
+View Contact Information
+~~~~~~~~~~~~~~~~~~~~~~~~
+source/company_information/shareholder_documents.rst:21: WARNING: Inline strong start-string without end-string.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:28: WARNING: duplicate label view_web_account_target, other instance in C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/contacts_web_users.rst
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:22: WARNING: duplicate label edit_company_info_profile, other instance in C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:63: WARNING: duplicate label view_logo_reports_certificate_layout_profile, other instance in C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\profile.rst:77: WARNING: duplicate label view_site_logo_profile, other instance in C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/index.rst
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/qa_findings.rst:7: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/QA/web_user_bug.png
+   :alt: Web User Bug
+   :align: center
+
+    Web User Bug
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/shareholder_documents.rst:21: WARNING: Inline strong start-string without end-string.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:109: WARNING: image file not readable: _static/pdf_images/proxy_id
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:109: WARNING: image file not readable: _static/pdf_images/proxy_id
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports/index.rst:8: WARNING: Inline interpreted text or phrase reference start-string without end-string.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:269: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_email_statement_send.png
+   :alt: Shareholder, Shareholder detail screen, Email Statement, Send.
+
+    Shareholder, Shareholder detail screen, Email Statement, Send.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:310: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:318: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Upload Document.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Upload Document.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:337: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_screen.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document screen.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document screen.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:346: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document_notify.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Notify Shareholder.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Notify Shareholder.
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/index.rst:355: ERROR: Figure caption must be a paragraph or empty comment.
+
+.. figure:: ../_static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document_save.png
+   :scale: 85%
+   :alt: Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Save.
+
+    Shareholder, Shareholder detail screen, Shared Documents tab, Add Document, Save.
+looking for now-outdated files... [app] emitting event: 'env-get-updated'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>,)
+none found
+pickling environment... done
+checking consistency... C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information/qa_findings.rst: WARNING: document isn't included in any toctree
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\contact_transfer_agent.rst: WARNING: document isn't included in any toctree
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders/shareholders_ta_issuer.rst: WARNING: document isn't included in any toctree
+[app] emitting event: 'env-check-consistency'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>,)
+done
+docnames to write: certificates/index, certificates/view_certificates, company_information/company_documents, company_information/contacts_web_users, company_information/dashboard, company_information/email_history, company_information/index, company_information/profile, company_information/qa_findings, company_information/shareholder_documents, contact_transfer_agent, contact_transfer_agent/index, index, knowledge_center/faq, knowledge_center/glossary, knowledge_center/index, knowledge_center/useful_documents, my_accounts/index, my_accounts/my_accounts, proxies/index, proxies/proxies, reports/current_balance, reports/index, reports/latest_transactions, reports/ownership_percentage, reports/shareholders_report, shareholders/index, shareholders/shareholders_ta_issuer
+preparing documents... done
+copying assets... copying static files... done
+copying extra files... done
+done
+writing output... [  4%] certificates/index
+[app] emitting event: 'doctree-resolved'(<document: <section "certificates"...>>, 'certificates/index')
+[app] emitting event: 'html-page-context'('certificates/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\certificates\\index.29dddbe1-2d5e-4ddd-a267-1437ba00dc1a.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'certificates/index';"}
+writing output... [  7%] certificates/view_certificates
+[app] emitting event: 'doctree-resolved'(<document: <section "view certificate details"...>>, 'certificates/view_certificates')
+[app] emitting event: 'html-page-context'('certificates/view_certificates', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', '
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\certificates\\view_certificates.ae91488b-59fe-4d64-9f6f-2917a331bd78.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'certificates/view_certificates';"}
+writing output... [ 11%] company_information/company_documents
+[app] emitting event: 'doctree-resolved'(<document: <section "company documents"...>>, 'company_information/company_documents')
+[app] emitting event: 'html-page-context'('company_information/company_documents', 'page.html', {'embedded': False, 'project': 'TA Issuer Man
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\company_documents.1538a85c-b5c0-4025-ae5a-d16762e83ba7.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/company_documents';"}
+writing output... [ 14%] company_information/contacts_web_users
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "contacts & web users"...>>, 'company_information/contacts_web_users')
+[app] emitting event: 'html-page-context'('company_information/contacts_web_users', 'page.html', {'embedded': False, 'project': 'TA Issuer Ma
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\contacts_web_users.7be108cf-08fe-4908-8243-beffe6592862.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/contacts_web_users';"}
+writing output... [ 18%] company_information/dashboard
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <raw...><section "dashboard"...>>, 'company_information/dashboard')
+[app] emitting event: 'html-page-context'('company_information/dashboard', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'r
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\dashboard.759b2a74-f9d2-4c7b-a013-da3e707a7e62.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/dashboard';"}
+writing output... [ 21%] company_information/email_history
+[app] emitting event: 'doctree-resolved'(<document: <section "email history"...>>, 'company_information/email_history')
+[app] emitting event: 'html-page-context'('company_information/email_history', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual'
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\email_history.8b6cf336-6295-431a-a3f0-61f25622c72b.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/email_history';"}
+writing output... [ 25%] company_information/index
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "company information"...>>, 'company_information/index')
+[app] emitting event: 'html-page-context'('company_information/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'relea
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\index.05c89639-fb75-444f-a70d-bca467a6d7e0.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/index';"}
+writing output... [ 29%] company_information/profile
+[app] emitting event: 'doctree-resolved'(<document: <section "profile"...>>, 'company_information/profile')
+[app] emitting event: 'html-page-context'('company_information/profile', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'rel
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\profile.d26c4147-4c82-4f37-ab95-2cc5a6d18fc7.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/profile';"}
+writing output... [ 32%] company_information/qa_findings
+[app] emitting event: 'doctree-resolved'(<document: <section "contacts & web users"...>>, 'company_information/qa_findings')
+[app] emitting event: 'html-page-context'('company_information/qa_findings', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual',
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\qa_findings.b87fdfc8-4889-4590-8ba3-85467cf22489.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/qa_findings';"}
+writing output... [ 36%] company_information/shareholder_documents
+[app] emitting event: 'doctree-resolved'(<document: <section "shareholder documents"...>>, 'company_information/shareholder_documents')
+[app] emitting event: 'html-page-context'('company_information/shareholder_documents', 'page.html', {'embedded': False, 'project': 'TA Issuer
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\company_information\\shareholder_documents.3880eafd-71e0-4d6f-b686-79c091cd78ea.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'company_information/shareholder_documents';"}
+writing output... [ 39%] contact_transfer_agent
+[app] emitting event: 'doctree-resolved'(<document: <section "contact transfer agent"...>>, 'contact_transfer_agent')
+[app] emitting event: 'html-page-context'('contact_transfer_agent', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release'
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\contact_transfer_agent.0ac292a1-20e6-4c28-ae00-b558c7f332e6.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'contact_transfer_agent';"}
+writing output... [ 43%] contact_transfer_agent/index
+[app] emitting event: 'doctree-resolved'(<document: <section "contact transfer agent"...>>, 'contact_transfer_agent/index')
+[app] emitting event: 'html-page-context'('contact_transfer_agent/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 're
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\contact_transfer_agent\\index.3f6376b7-adbb-49ea-aff8-6124c46ab544.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'contact_transfer_agent/index';"}
+writing output... [ 46%] index
+[app] emitting event: 'doctree-resolved'(<document: <section "transfer agent issuer manual"...><section "tab ...>, 'index')
+[app] emitting event: 'html-page-context'('index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1', 'version':
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\index.e22db7cd-d499-4fd8-a704-650d7ce65209.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'index';"}
+writing output... [ 50%] knowledge_center/faq
+[app] emitting event: 'doctree-resolved'(<document: <section "faqs"...>>, 'knowledge_center/faq')
+[app] emitting event: 'html-page-context'('knowledge_center/faq', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release':
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\knowledge_center\\faq.adf98431-5007-48ba-9f9f-684f20a258c4.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'knowledge_center/faq';"}
+writing output... [ 54%] knowledge_center/glossary
+[app] emitting event: 'doctree-resolved'(<document: <section "glossary"...>>, 'knowledge_center/glossary')
+[app] emitting event: 'html-page-context'('knowledge_center/glossary', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'relea
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\knowledge_center\\glossary.11c6b4a3-b474-4e3f-9b9f-80ed27f7a161.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'knowledge_center/glossary';"}
+writing output... [ 57%] knowledge_center/index
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "knowledge center"...>>, 'knowledge_center/index')
+[app] emitting event: 'html-page-context'('knowledge_center/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release'
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\knowledge_center\\index.edf1c85a-96b5-4b06-bdab-5895b976fcf9.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'knowledge_center/index';"}
+writing output... [ 61%] knowledge_center/useful_documents
+[app] emitting event: 'doctree-resolved'(<document: <section "useful documents"...>>, 'knowledge_center/useful_documents')
+[app] emitting event: 'html-page-context'('knowledge_center/useful_documents', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual'
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\knowledge_center\\useful_documents.6c1ab801-1a2d-4b5e-8819-bf09180f4242.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'knowledge_center/useful_documents';"}
+writing output... [ 64%] my_accounts/index
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "my accounts"...>>, 'my_accounts/index')
+[app] emitting event: 'html-page-context'('my_accounts/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1'
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\my_accounts\\index.1c2bccc0-fbcc-4408-aa24-401b0bf40224.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'my_accounts/index';"}
+writing output... [ 68%] my_accounts/my_accounts
+[app] emitting event: 'doctree-resolved'(<document: <section "link to my shareholder account"...>>, 'my_accounts/my_accounts')
+[app] emitting event: 'html-page-context'('my_accounts/my_accounts', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\my_accounts\\my_accounts.d7d3d76d-9e94-4503-85b4-9e6da120bb3a.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'my_accounts/my_accounts';"}
+writing output... [ 71%] proxies/index
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "proxies"...>>, 'proxies/index')
+[app] emitting event: 'html-page-context'('proxies/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1', 'v
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\proxies\\index.27262d5c-2217-4383-ba07-2657f7cc4371.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'proxies/index';"}
+writing output... [ 75%] proxies/proxies
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <paragraph...><figure...><paragraph...><figure...><secti ...>, 'proxies/proxies')
+[app] emitting event: 'html-page-context'('proxies/proxies', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1',
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\proxies\\proxies.b21b59c9-49aa-4f6f-8c37-f211d43afdf1.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'proxies/proxies';"}
+writing output... [ 79%] reports/current_balance
+[app] emitting event: 'doctree-resolved'(<document: <section "current balance"...>>, 'reports/current_balance')
+[app] emitting event: 'html-page-context'('reports/current_balance', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\reports\\current_balance.a4258ae1-e5ff-4b39-8cf2-f88f0f5197fb.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'reports/current_balance';"}
+writing output... [ 82%] reports/index
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "reports"...>>, 'reports/index')
+[app] emitting event: 'html-page-context'('reports/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1', 'v
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\reports\\index.fc301e5a-75ea-46dd-8267-2a234ca45cf0.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'reports/index';"}
+writing output... [ 86%] reports/latest_transactions
+[app] emitting event: 'doctree-resolved'(<document: <section "latest transactions"...>>, 'reports/latest_transactions')
+[app] emitting event: 'html-page-context'('reports/latest_transactions', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'rel
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\reports\\latest_transactions.a1e44fc4-878b-470a-98d0-521fcc3dbcff.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'reports/latest_transactions';"}
+writing output... [ 89%] reports/ownership_percentage
+[app] emitting event: 'doctree-resolved'(<document: <section "ownership percentage report"...>>, 'reports/ownership_percentage')
+[app] emitting event: 'html-page-context'('reports/ownership_percentage', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 're
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\reports\\ownership_percentage.2729d6c5-8e18-444d-ad6a-5f3e839fa85c.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'reports/ownership_percentage';"}
+writing output... [ 93%] reports/shareholders_report
+[app] emitting event: 'doctree-resolved'(<document: <section "shareholders report"...>>, 'reports/shareholders_report')
+[app] emitting event: 'html-page-context'('reports/shareholders_report', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'rel
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\reports\\shareholders_report.34a5b3c2-3659-4c54-95ea-9cf46cec5e25.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'reports/shareholders_report';"}
+writing output... [ 96%] shareholders/index
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'missing-reference'(<sphinx.environment.BuildEnvironment object at 0x000002209761EA20>, <pending_xref: <inline...>>, <i
+[app] emitting event: 'warn-missing-reference'(<sphinx.domains.std.StandardDomain object at 0x00000220C98E5490>, <pending_xref: <inline...>>)
+[app] emitting event: 'doctree-resolved'(<document: <section "shareholders"...>>, 'shareholders/index')
+[app] emitting event: 'html-page-context'('shareholders/index', 'page.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\shareholders\\index.1f039202-1cda-473b-9da8-3e169658db21.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'shareholders/index';"}
+writing output... [100%] shareholders/shareholders_ta_issuer
+[app] emitting event: 'doctree-resolved'(<document: >, 'shareholders/shareholders_ta_issuer')
+[app] emitting event: 'html-page-context'('shareholders/shareholders_ta_issuer', 'page.html', {'embedded': False, 'project': 'TA Issuer Manua
+[app] adding js_file: 'https://unpkg.com/@popperjs/core@2', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'https://unpkg.com/tippy.js@6', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: 'tippy\\shareholders\\shareholders_ta_issuer.e5102587-e45e-4903-a5ff-e19b2de0f3e4.js', {'priority': 500, 'defer': 'defer'}
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'shareholders/shareholders_ta_issuer';"}
+
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:8: WARNING: undefined label: 'company_information/contacts_web_users_view_web_account:view web account'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:11: WARNING: undefined label: 'view information about web account users and contacts <company_information/contacts_web_users:view_web_account_target'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:12: WARNING: undefined label: 'permissions'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:13: WARNING: undefined label: 'upload, download, or delete documents to the web account user or contact'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:45: WARNING: undefined label: 'contacts_web_users_view_web_account_user'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:46: WARNING: undefined label: 'contacts_web_users_view_contact'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:25: WARNING: undefined label: 'shareholders'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:55: WARNING: undefined label: 'reports'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\index.rst:17: WARNING: undefined label: 'company_information/contacts_web_users_view_web_account:view web account'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:25: WARNING: undefined label: 'shareholders'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\dashboard.rst:55: WARNING: undefined label: 'reports'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:8: WARNING: undefined label: 'company_information/contacts_web_users_view_web_account:view web account'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:11: WARNING: undefined label: 'view information about web account users and contacts <company_information/contacts_web_users:view_web_account_target'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:12: WARNING: undefined label: 'permissions'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:13: WARNING: undefined label: 'upload, download, or delete documents to the web account user or contact'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:45: WARNING: undefined label: 'contacts_web_users_view_web_account_user'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\company_information\contacts_web_users.rst:46: WARNING: undefined label: 'contacts_web_users_view_contact'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\index.rst:8: WARNING: undefined label: 'faqs'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\knowledge_center\index.rst:9: WARNING: undefined label: 'glossary'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts\index.rst:9: WARNING: undefined label: 'dashboard_company_info'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\my_accounts\index.rst:20: WARNING: undefined label: 'dashboard_company_info'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:29: WARNING: undefined label: 'proposal summary'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:30: WARNING: undefined label: 'shareholder votes'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:29: WARNING: undefined label: 'proposal summary'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\proxies\proxies.rst:30: WARNING: undefined label: 'shareholder votes'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\index.rst:7: WARNING: undefined label: 'current balance'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\index.rst:9: WARNING: undefined label: 'shareholders report'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\reports\index.rst:10: WARNING: undefined label: 'ownership percentage report'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:23: WARNING: undefined label: 'shareholder information tab'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:24: WARNING: undefined label: 'mailing address tab'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:25: WARNING: undefined label: 'holdings summary tab'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:26: WARNING: undefined label: 'shared documents tab'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:27: WARNING: undefined label: 'web accounts tab'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:45: WARNING: undefined label: 'shareholder information tab'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:80: WARNING: undefined label: 'contact shareholder'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:292: WARNING: undefined label: 'view certificate details'
+C:\Users\levse\Desktop2\CodingW\manual\TA_IssuerManual\TA_IssuerManual\source\shareholders\index.rst:397: WARNING: undefined label: 'view shareholder details'
+generating indices... genindex [app] emitting event: 'html-page-context'('genindex', 'genindex.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1', 've
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'genindex';"}
+done
+[app] emitting event: 'html-collect-pages'()
+writing additional pages... search [app] emitting event: 'html-page-context'('search', 'search.html', {'embedded': False, 'project': 'TA Issuer Manual', 'release': '1', 'versio
+[app] adding js_file: None, {'priority': 500, 'body': "DOCUMENTATION_OPTIONS.pagename = 'search';"}
+done
+copying images... [  1%] _static/pdf_images/certificates_certificate_lookup.png
+copying images... [  2%] _static/pdf_images/Certificates_Certificate_lookup_view_details_button.png
+copying images... [  3%] _static/pdf_images/Certificates_Certificate_lookup_view_Certificate_details.png
+copying images... [  4%] _static/pdf_images/Certificates_Certificate_lookup_view_Certificate_details_information_tab.png
+copying images... [  5%] _static/pdf_images/Certificates_Certificate_lookup_view_Certificate_details_restriction_tab.png
+copying images... [  6%] _static/pdf_images/Certificates_Certificate_lookup_view_Certificate_details_stops_tab.png
+copying images... [  7%] _static/pdf_images/Certificates_Certificate_lookup_view_Certificate_details_issuing_transaction_tab.png
+copying images... [  8%] _static/pdf_images/Certificates_Certificate_lookup_view_Certificate_details_tax_lots_tab.png
+copying images... [  9%] _static/pdf_images/company_documents.png
+copying images... [ 10%] _static/pdf_images/contacts_and_web_users.png
+copying images... [ 11%] _static/pdf_images/general_web_account_user_screen.png
+copying images... [ 12%] _static/pdf_images/web_account_user_detail_screen.png
+copying images... [ 14%] _static/pdf_images/web_account_user_detail_screen_permissions_button.png
+copying images... [ 15%] _static/pdf_images/web_account_user_detail_screen_permissions_edit_button.png
+copying images... [ 16%] _static/pdf_images/web_account_user_detail_screen_permissions_edit_checkbox_location.png
+copying images... [ 17%] _static/pdf_images/web_account_user_detail_screen_permissions_edit_select_all_button.png
+copying images... [ 18%] _static/pdf_images/web_account_user_detail_screen_permissions_edit_save_button.png
+copying images... [ 19%] _static/pdf_images/web_account_user_contact_screen.png
+copying images... [ 20%] _static/pdf_images/web_account_user_and_contact_add_document_button.png
+copying images... [ 21%] _static/pdf_images/web_account_user_and_contact_edit_download_delete_document_button.png
+copying images... [ 22%] _static/pdf_images/web_account_user_and_contact_delete_document_button.png
+copying images... [ 23%] _static/pdf_images/web_account_user_and_contact_download_document_button.png
+copying images... [ 24%] _static/pdf_images/companyInfo_Dashboard.png
+copying images... [ 25%] _static/pdf_images/shareholder_list_screen.png
+copying images... [ 26%] _static/pdf_images/create_reports_view_more.png
+copying images... [ 27%] _static/pdf_images/page_10_image_2.png
+copying images... [ 28%] _static/pdf_images/emails_screen.png
+copying images... [ 29%] _static/pdf_images/new_email_screen.png
+copying images... [ 30%] _static/pdf_images/view_email_details.png
+copying images... [ 31%] _static/pdf_images/email_detail_screen.png
+copying images... [ 32%] _static/pdf_images/company_profile.png
+copying images... [ 33%] _static/pdf_images/company_profile_company_info_edit_icon.png
+copying images... [ 34%] _static/pdf_images/company_profile_company_info_fields.png
+copying images... [ 35%] _static/pdf_images/company_profile_company_info_save.png
+copying images... [ 36%] _static/pdf_images/logo_reports_certificate_layout.png
+copying images... [ 38%] _static/pdf_images/site_logo.png
+copying images... [ 39%] _static/pdf_images/activity_summary_location.png
+copying images... [ 40%] _static/pdf_images/activity_summary_download_view.png
+copying images... [ 41%] _static/pdf_images/share_documents_shareholder.png
+copying images... [ 42%] _static/pdf_images/share_documents_shareholder_create_category.png
+copying images... [ 43%] _static/pdf_images/page_36_image_3.png
+copying images... [ 44%] _static/pdf_images/page_36_image_2.png
+copying images... [ 45%] _static/pdf_images/update_document.png
+copying images... [ 46%] _static/pdf_images/QA/web_user_bug.png
+copying images... [ 47%] _static/pdf_images/page_92_image_1.png
+copying images... [ 48%] _static/pdf_images/page_92_image_2.png
+copying images... [ 49%] _static/pdf_images/contact_transfer_agent.png
+copying images... [ 50%] _static/pdf_images/page_90_image_1.png
+copying images... [ 51%] _static/pdf_images/page_90_image_2.png
+copying images... [ 52%] _static/pdf_images/page_91_image_1.png
+copying images... [ 53%] _static/pdf_images/page_91_image_2.png
+copying images... [ 54%] _static/pdf_images/page_91_image_3.png
+copying images... [ 55%] _static/pdf_images/page_8_image_1.png
+copying images... [ 56%] _static/pdf_images/page_8_image_2.png
+copying images... [ 57%] _static/pdf_images/proxies_list.png
+copying images... [ 58%] _static/pdf_images/proxies_list_view_details.png
+copying images... [ 59%] _static/pdf_images/proxy_detail_screen_overview.png
+copying images... [ 60%] _static/pdf_images/proxies_details_proposal_summary.png
+copying images... [ 61%] _static/pdf_images/proxies_details_download_proposal_summary.png
+copying images... [ 62%] _static/pdf_images/proxies_details_Shareholder_votes.png
+copying images... [ 64%] _static/pdf_images/proxies_details_download_Shareholder_votes.png
+copying images... [ 65%] _static/pdf_images/proxies_details_shareholders_not_voted.png
+copying images... [ 66%] _static/pdf_images/proxies_details_download_shareholders_not_voted_mailing_list.png
+copying images... [ 67%] _static/pdf_images/page_79_image_2.png
+copying images... [ 68%] _static/pdf_images/latest_transactions.png
+copying images... [ 69%] _static/pdf_images/shareholders_report.png
+copying images... [ 70%] _static/pdf_images/ownership_percentage_report.png
+copying images... [ 71%] _static/pdf_images/shareholder_list_screen_more_info.png
+copying images... [ 72%] _static/pdf_images/shareholder_detail_screen_categories.png
+copying images... [ 73%] _static/pdf_images/shareholder_detail_screen.png
+copying images... [ 74%] _static/pdf_images/shareholder_detail_screen_contact_shareholder.png
+copying images... [ 75%] _static/pdf_images/email_info_screen.png
+copying images... [ 76%] _static/pdf_images/shareholder_detail_screen_mailing_address.png
+copying images... [ 77%] _static/pdf_images/shareholder_detail_screen_mailing_address_edit_icon.png
+copying images... [ 78%] _static/pdf_images/shareholder_detail_screen_mailing_address_edit_screen.png
+copying images... [ 79%] _static/pdf_images/shareholder_detail_screen_holdings_summary.png
+copying images... [ 80%] _static/pdf_images/shareholder_detail_screen_holdings_summary_filter.png
+copying images... [ 81%] _static/pdf_images/shareholder_detail_screen_holdings_summary_company_dropdown.png
+copying images... [ 82%] _static/pdf_images/shareholder_detail_screen_holdings_summary_shares_held_dropdown.png
+copying images... [ 83%] _static/pdf_images/shareholder_detail_screen_holdings_summary_download_icon.png
+copying images... [ 84%] _static/pdf_images/shareholder_detail_screen_outstanding_stock_download_icon.png
+copying images... [ 85%] _static/pdf_images/shareholder_detail_screen_email_statement_include_cancel_certificates.png
+copying images... [ 86%] _static/pdf_images/shareholder_detail_screen_email_statement_button.png
+copying images... [ 88%] _static/pdf_images/shareholder_detail_screen_email_statement_popup.png
+copying images... [ 89%] _static/pdf_images/shareholder_detail_screen_email_statement_attachment.png
+copying images... [ 90%] _static/pdf_images/shareholder_detail_screen_email_statement_send.png
+copying images... [ 91%] _static/pdf_images/shareholder_detail_screen_holdings_summary_certificates.png
+copying images... [ 92%] _static/pdf_images/shareholder_details_certificates.png
+copying images... [ 93%] _static/pdf_images/shareholder_detail_screen_shared_documents.png
+copying images... [ 94%] _static/pdf_images/shareholder_detail_screen_shared_documents_add_document.png
+copying images... [ 95%] _static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document.png
+copying images... [ 96%] _static/pdf_images/shareholder_detail_screen_shared_documents_add_document_screen.png
+copying images... [ 97%] _static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document_notify.png
+copying images... [ 98%] _static/pdf_images/shareholder_detail_screen_shared_documents_add_document_upload_document_save.png
+copying images... [ 99%] _static/pdf_images/shareholder_detail_screen_web_accounts.png
+copying images... [100%] _static/pdf_images/page_32_image_1.png
+
+dumping search index in English (code: en)... done
+dumping object inventory... done
+[app] emitting event: 'build-finished'(None,)
+Fetching Wikipedia tips
+Fetching DOI tips
+Fetching RTD tips
+Writing tippy data files[100%] shareholders/shareholders_ta_issuer
+build succeeded, 58 warnings.
+
+The HTML pages are in build.
