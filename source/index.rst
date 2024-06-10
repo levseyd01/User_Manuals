@@ -21,8 +21,10 @@ SOLO 1.0 User Manuals
    ``Enterprise User Manual`` is a PDF file and will be downloaded when you click on the link. It has not been fully converted to have an online version.
 
 
+
 SOLO 2.0 User Manuals
 =====================
+
 
 - :doc:`TA Issuer Manual (SOLO 2.0) <ta-issuer-manual-S2:index>`: TA Issuer Manual for system built on SOLO 2.0.
 
